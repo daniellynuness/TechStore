@@ -15,14 +15,17 @@ A **TechStore** (varejista de eletrônicos fictícia) opera com um catálogo de 
 ### 1. Foco Estratégico (Pareto 80/20)
 Através da classificação ABC, foi identificado que a grande maioria do faturamento provém de uma pequena parcela dos produtos (Notebooks e Smartphones).
 * **Ação Recomendada:** Garantir estoque de segurança máximo para itens **Classe A** e reavaliar a continuidade de itens **Classe C** (Acessórios de baixo valor).
+<div align='center'><img width="800" height="502" alt="pareto" src="https://github.com/user-attachments/assets/90934235-2065-4785-b389-cb0f2e531635" /></div>
 
 ### 2. Fluxo de Caixa (Matriz de Estoque)
 O cruzamento de *Ticket Médio* vs. *Dias em Estoque* revelou produtos de alto valor (acima de R$ 2.000) com giro lento (> 45 dias).
 * **Ação Recomendada:** Realizar promoções direcionadas para estes itens específicos para liberar capital de giro imediato.
+<div align='center'><img width="800" height="502" alt="estoque" src="https://github.com/user-attachments/assets/5de86c0d-6457-4f67-a416-d56016d54069" /></div>
 
 ### 3. Gargalos Logísticos
 A análise por cidades monitorou a taxa de insucesso (Devoluções/Cancelamentos).
 * **Ação Recomendada:** Cidades com taxa de sucesso abaixo de 85% devem ter seus parceiros logísticos auditados ou substituídos.
+<div align='center'><img width="900" height="502" alt="eficiencia" src="https://github.com/user-attachments/assets/a605ad75-381d-40d5-946c-fafe11c648ab" /></div>
 
 ## 🛠️ Tecnologias Utilizadas
 * **Python**: Geração de dados sintéticos e análise estatística.
