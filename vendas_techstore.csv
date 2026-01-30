@@ -1,0 +1,1001 @@
+ID,Data Cadastro,Produto,Data Venda,Categoria,Preço Unit.,Qtd,Valor Total,Cidade,Vendedor,Forma de Pagamento,Status
+1,26/11/2025,Notebook Gamer,20/01/2026,Eletrônicos,4840.51,4,19362.04,Fortaleza,Bruno,Pix,Em Trânsito
+2,06/12/2025,Headset,29/12/2025,Acessórios,120.56,2,241.12,Fortaleza,Daniel,Crédito,Entregue
+3,29/11/2025,Lâmpada Smart,03/12/2025,Casa Inteligente,41.1,5,205.5,Rio de Janeiro,Bruno,Pix,Entregue
+4,04/11/2025,Mouse Sem Fio,08/12/2025,Acessórios,99.45,5,497.25,Natal,Fabio,Boleto,Entregue
+5,18/08/2025,Webcam,26/12/2025,Acessórios,234.34,3,703.02,Rio de Janeiro,Bruno,Pix,Entregue
+6,20/07/2025,Notebook Gamer,04/01/2026,Eletrônicos,4483.14,1,4483.14,Rio de Janeiro,Elena,Crédito,Pendente
+7,22/09/2025,Webcam,11/12/2025,Acessórios,188.5,3,565.5,João Pessoa,Fabio,Boleto,Entregue
+8,24/07/2025,Webcam,25/12/2025,Acessórios,232.73,2,465.46,Porto Alegre,Daniel,Pix,Cancelado
+9,23/11/2025,Lâmpada Smart,29/12/2025,Casa Inteligente,47.38,2,94.76,São Paulo,Bruno,Pix,Entregue
+10,30/07/2025,Mouse Sem Fio,13/12/2025,Acessórios,91.39,5,456.95,Natal,Daniel,Crédito,Pendente
+11,27/05/2025,Webcam,10/12/2025,Acessórios,162.62,1,162.62,Brasília,Daniel,Boleto,Entregue
+12,09/12/2025,Mouse Sem Fio,26/01/2026,Acessórios,131.86,4,527.44,Fortaleza,Elena,Boleto,Entregue
+13,04/12/2025,"Monitor 24""",26/01/2026,Eletrônicos,1070.77,3,3212.31,Salvador,Carla,Crédito,Entregue
+14,04/09/2025,Fechadura Digital,03/12/2025,Casa Inteligente,505.61,1,505.61,Brasília,Bruno,Pix,Pendente
+15,06/06/2025,Smartphone,16/12/2025,Eletrônicos,2832.91,3,8498.73,Natal,Fabio,Crédito,Entregue
+16,02/07/2025,Smartphone,04/01/2026,Eletrônicos,3639.99,2,7279.98,Natal,Bruno,Crédito,Entregue
+17,21/12/2025,Fechadura Digital,02/01/2026,Casa Inteligente,687.39,4,2749.56,Rio de Janeiro,Ana,Boleto,Entregue
+18,23/10/2025,Lâmpada Smart,18/01/2026,Casa Inteligente,78.26,4,313.04,Rio de Janeiro,Fabio,Crédito,Entregue
+19,06/08/2025,Headset,06/01/2026,Acessórios,286.34,3,859.02,Recife,Carla,Boleto,Entregue
+20,17/08/2025,Fechadura Digital,20/01/2026,Casa Inteligente,406.21,2,812.42,Natal,Ana,Pix,Em Trânsito
+21,04/07/2025,Notebook Gamer,12/01/2026,Eletrônicos,4595.46,2,9190.92,Porto Alegre,Fabio,Boleto,Entregue
+22,20/07/2025,"Monitor 24""",20/12/2025,Eletrônicos,600.98,3,1802.94,João Pessoa,Bruno,Pix,Entregue
+23,04/11/2025,Teclado Mecânico,23/01/2026,Acessórios,332.63,1,332.63,Natal,Ana,Crédito,Entregue
+24,21/07/2025,Tablet,18/12/2025,Eletrônicos,826.7,2,1653.4,Porto Alegre,Daniel,Pix,Entregue
+25,29/08/2025,Headset,27/12/2025,Acessórios,298.07,1,298.07,Brasília,Ana,Boleto,Cancelado
+26,26/06/2025,Tablet,15/12/2025,Eletrônicos,846.59,5,4232.95,Fortaleza,Fabio,Boleto,Em Trânsito
+27,17/10/2025,Smartphone,13/01/2026,Eletrônicos,2863.59,4,11454.36,Natal,Carla,Crédito,Pendente
+28,16/12/2025,Lâmpada Smart,23/01/2026,Casa Inteligente,44.79,2,89.58,Fortaleza,Daniel,Pix,Em Trânsito
+29,08/08/2025,Webcam,10/01/2026,Acessórios,180.71,1,180.71,Rio de Janeiro,Elena,Crédito,Entregue
+30,08/12/2025,Fechadura Digital,08/01/2026,Casa Inteligente,882.49,1,882.49,Fortaleza,Daniel,Crédito,Entregue
+31,30/08/2025,Lâmpada Smart,29/12/2025,Casa Inteligente,56.62,3,169.86,Recife,Carla,Crédito,Entregue
+32,31/08/2025,Webcam,14/12/2025,Acessórios,243.13,4,972.52,Natal,Daniel,Crédito,Entregue
+33,20/12/2025,Teclado Mecânico,02/01/2026,Acessórios,150.9,1,150.9,Rio de Janeiro,Elena,Crédito,Entregue
+34,12/11/2025,"Monitor 24""",18/12/2025,Eletrônicos,719.91,5,3599.55,Salvador,Ana,Pix,Entregue
+35,23/07/2025,Headset,18/01/2026,Acessórios,135.44,4,541.76,Recife,Carla,Pix,Entregue
+36,23/09/2025,Headset,12/12/2025,Acessórios,214.04,2,428.08,João Pessoa,Fabio,Crédito,Entregue
+37,13/07/2025,Tablet,02/01/2026,Eletrônicos,1073.25,3,3219.75,Curitiba,Daniel,Crédito,Entregue
+38,23/10/2025,Notebook Gamer,30/11/2025,Eletrônicos,5317.24,1,5317.24,Salvador,Elena,Boleto,Entregue
+39,10/08/2025,Smartphone,30/12/2025,Eletrônicos,3845.93,4,15383.72,Brasília,Ana,Boleto,Entregue
+40,16/11/2025,"Monitor 24""",06/01/2026,Eletrônicos,765.47,2,1530.94,Fortaleza,Fabio,Crédito,Entregue
+41,01/09/2025,Tablet,09/12/2025,Eletrônicos,1450.48,5,7252.4,João Pessoa,Daniel,Crédito,Entregue
+42,09/11/2025,Mouse Sem Fio,22/12/2025,Acessórios,100.4,5,502.0,São Paulo,Bruno,Crédito,Entregue
+43,24/09/2025,"Monitor 24""",13/12/2025,Eletrônicos,946.0,5,4730.0,São Paulo,Carla,Pix,Entregue
+44,17/07/2025,Assistente Virtual,06/01/2026,Casa Inteligente,327.27,1,327.27,Curitiba,Daniel,Boleto,Pendente
+45,16/12/2025,Assistente Virtual,29/01/2026,Casa Inteligente,381.85,4,1527.4,Curitiba,Fabio,Pix,Em Trânsito
+46,13/09/2025,Smartphone,19/12/2025,Eletrônicos,3748.37,1,3748.37,Recife,Daniel,Crédito,Entregue
+47,25/09/2025,Webcam,01/01/2026,Acessórios,179.6,4,718.4,Porto Alegre,Elena,Pix,Entregue
+48,05/07/2025,"Monitor 24""",12/12/2025,Eletrônicos,620.88,3,1862.64,Natal,Carla,Boleto,Entregue
+49,30/05/2025,Notebook Gamer,07/12/2025,Eletrônicos,3559.57,5,17797.85,Natal,Ana,Pix,Cancelado
+50,07/08/2025,Assistente Virtual,21/01/2026,Casa Inteligente,479.36,1,479.36,São Paulo,Carla,Crédito,Atrasado
+51,02/08/2025,"Monitor 24""",21/01/2026,Eletrônicos,1061.83,4,4247.32,São Paulo,Daniel,Boleto,Entregue
+52,20/10/2025,Fechadura Digital,25/01/2026,Casa Inteligente,865.82,4,3463.28,Porto Alegre,Bruno,Boleto,Entregue
+53,10/09/2025,Mouse Sem Fio,24/01/2026,Acessórios,50.23,1,50.23,João Pessoa,Carla,Crédito,Entregue
+54,28/09/2025,Fechadura Digital,11/01/2026,Casa Inteligente,578.59,1,578.59,Brasília,Elena,Crédito,Entregue
+55,26/08/2025,Assistente Virtual,05/12/2025,Casa Inteligente,414.07,1,414.07,Recife,Bruno,Pix,Entregue
+56,11/01/2026,Webcam,21/01/2026,Acessórios,128.77,4,515.08,Salvador,Carla,Crédito,Entregue
+57,26/08/2025,Assistente Virtual,04/12/2025,Casa Inteligente,302.15,4,1208.6,Salvador,Fabio,Boleto,Atrasado
+58,18/10/2025,Headset,10/01/2026,Acessórios,154.74,3,464.22,Salvador,Carla,Boleto,Entregue
+59,24/11/2025,Assistente Virtual,17/12/2025,Casa Inteligente,354.73,1,354.73,Recife,Carla,Pix,Entregue
+60,25/11/2025,"Monitor 24""",19/12/2025,Eletrônicos,758.22,3,2274.66,Brasília,Bruno,Boleto,Em Trânsito
+61,19/07/2025,Notebook Gamer,06/01/2026,Eletrônicos,5505.29,2,11010.58,Belo Horizonte,Bruno,Crédito,Devolvido
+62,24/10/2025,Teclado Mecânico,10/01/2026,Acessórios,315.2,5,1576.0,João Pessoa,Ana,Pix,Entregue
+63,19/11/2025,Tablet,12/12/2025,Eletrônicos,1043.02,5,5215.1,Belo Horizonte,Ana,Pix,Entregue
+64,30/10/2025,Webcam,06/12/2025,Acessórios,225.37,5,1126.85,Porto Alegre,Fabio,Crédito,Entregue
+65,01/08/2025,Webcam,13/12/2025,Acessórios,195.6,2,391.2,Curitiba,Ana,Crédito,Entregue
+66,22/10/2025,Smartphone,28/12/2025,Eletrônicos,3780.37,3,11341.11,Salvador,Bruno,Crédito,Entregue
+67,01/08/2025,"Monitor 24""",29/01/2026,Eletrônicos,1025.97,5,5129.85,João Pessoa,Carla,Boleto,Entregue
+68,11/11/2025,Smartphone,28/12/2025,Eletrônicos,3518.37,1,3518.37,Rio de Janeiro,Carla,Pix,Entregue
+69,20/10/2025,Assistente Virtual,13/12/2025,Casa Inteligente,421.9,3,1265.7,Curitiba,Carla,Boleto,Em Trânsito
+70,28/11/2025,Webcam,18/01/2026,Acessórios,217.93,5,1089.65,João Pessoa,Bruno,Crédito,Entregue
+71,08/09/2025,Headset,05/12/2025,Acessórios,127.79,5,638.95,Curitiba,Bruno,Pix,Entregue
+72,16/11/2025,Teclado Mecânico,11/12/2025,Acessórios,266.68,2,533.36,Belo Horizonte,Daniel,Pix,Entregue
+73,02/12/2025,Assistente Virtual,02/01/2026,Casa Inteligente,354.23,2,708.46,Salvador,Elena,Pix,Atrasado
+74,10/12/2025,Assistente Virtual,18/12/2025,Casa Inteligente,396.23,1,396.23,Rio de Janeiro,Carla,Pix,Entregue
+75,16/01/2026,Headset,22/01/2026,Acessórios,176.42,1,176.42,Brasília,Bruno,Crédito,Entregue
+76,01/08/2025,Notebook Gamer,22/12/2025,Eletrônicos,5409.6,1,5409.6,Porto Alegre,Elena,Boleto,Entregue
+77,16/09/2025,Fechadura Digital,19/12/2025,Casa Inteligente,569.17,3,1707.51,João Pessoa,Daniel,Pix,Pendente
+78,23/07/2025,Notebook Gamer,21/01/2026,Eletrônicos,4838.97,3,14516.91,Salvador,Bruno,Pix,Entregue
+79,04/07/2025,Assistente Virtual,30/12/2025,Casa Inteligente,297.16,5,1485.8,Natal,Elena,Pix,Entregue
+80,13/09/2025,Fechadura Digital,21/12/2025,Casa Inteligente,786.74,4,3146.96,Salvador,Carla,Crédito,Entregue
+81,18/08/2025,Fechadura Digital,31/12/2025,Casa Inteligente,746.45,4,2985.8,Porto Alegre,Ana,Boleto,Entregue
+82,31/12/2025,Fechadura Digital,18/01/2026,Casa Inteligente,810.8,4,3243.2,Salvador,Daniel,Boleto,Entregue
+83,10/12/2025,Webcam,18/12/2025,Acessórios,139.95,3,419.85,Recife,Daniel,Pix,Entregue
+84,12/07/2025,Teclado Mecânico,29/12/2025,Acessórios,221.73,3,665.19,Belo Horizonte,Ana,Pix,Atrasado
+85,05/10/2025,Webcam,24/01/2026,Acessórios,205.71,4,822.84,Fortaleza,Carla,Pix,Entregue
+86,02/10/2025,Headset,07/12/2025,Acessórios,223.41,2,446.82,Fortaleza,Fabio,Boleto,Entregue
+87,29/08/2025,Fechadura Digital,22/01/2026,Casa Inteligente,555.27,5,2776.35,Brasília,Daniel,Crédito,Atrasado
+88,13/07/2025,Mouse Sem Fio,05/12/2025,Acessórios,143.87,3,431.61,Porto Alegre,Bruno,Pix,Entregue
+89,23/08/2025,Mouse Sem Fio,28/01/2026,Acessórios,123.08,3,369.24,São Paulo,Carla,Crédito,Entregue
+90,12/01/2026,Tablet,17/01/2026,Eletrônicos,1398.63,5,6993.15,Curitiba,Elena,Crédito,Entregue
+91,27/06/2025,Headset,28/12/2025,Acessórios,180.01,5,900.05,Porto Alegre,Daniel,Pix,Atrasado
+92,09/01/2026,Notebook Gamer,26/01/2026,Eletrônicos,5673.7,4,22694.8,Salvador,Daniel,Pix,Pendente
+93,01/07/2025,Teclado Mecânico,02/12/2025,Acessórios,380.82,1,380.82,Recife,Bruno,Boleto,Entregue
+94,01/10/2025,Assistente Virtual,21/12/2025,Casa Inteligente,487.38,2,974.76,São Paulo,Bruno,Pix,Entregue
+95,27/08/2025,Fechadura Digital,25/01/2026,Casa Inteligente,824.05,5,4120.25,Porto Alegre,Elena,Pix,Entregue
+96,14/08/2025,Assistente Virtual,31/12/2025,Casa Inteligente,415.69,2,831.38,Recife,Ana,Pix,Entregue
+97,20/08/2025,Smartphone,20/12/2025,Eletrônicos,2502.16,2,5004.32,Natal,Carla,Crédito,Entregue
+98,12/11/2025,Lâmpada Smart,29/12/2025,Casa Inteligente,61.38,4,245.52,Porto Alegre,Ana,Boleto,Entregue
+99,16/12/2025,Lâmpada Smart,03/01/2026,Casa Inteligente,50.77,5,253.85,Salvador,Elena,Boleto,Entregue
+100,05/11/2025,Webcam,29/12/2025,Acessórios,164.38,2,328.76,Brasília,Carla,Crédito,Entregue
+101,27/10/2025,Assistente Virtual,09/12/2025,Casa Inteligente,469.63,4,1878.52,Brasília,Fabio,Boleto,Entregue
+102,10/10/2025,Headset,23/12/2025,Acessórios,289.52,2,579.04,Porto Alegre,Fabio,Pix,Entregue
+103,23/08/2025,Assistente Virtual,17/01/2026,Casa Inteligente,477.62,4,1910.48,João Pessoa,Daniel,Boleto,Entregue
+104,11/07/2025,Lâmpada Smart,11/01/2026,Casa Inteligente,66.42,5,332.1,Natal,Daniel,Crédito,Entregue
+105,29/09/2025,Headset,14/12/2025,Acessórios,133.53,1,133.53,João Pessoa,Ana,Pix,Cancelado
+106,31/07/2025,Lâmpada Smart,03/01/2026,Casa Inteligente,59.59,4,238.36,Brasília,Daniel,Pix,Entregue
+107,26/09/2025,"Monitor 24""",18/12/2025,Eletrônicos,1076.6,1,1076.6,Fortaleza,Fabio,Pix,Entregue
+108,24/07/2025,Notebook Gamer,05/01/2026,Eletrônicos,5943.19,2,11886.38,Belo Horizonte,Fabio,Crédito,Entregue
+109,13/09/2025,Teclado Mecânico,08/01/2026,Acessórios,164.69,1,164.69,Recife,Daniel,Crédito,Em Trânsito
+110,19/06/2025,Webcam,01/01/2026,Acessórios,183.81,5,919.05,Brasília,Carla,Crédito,Entregue
+111,23/09/2025,Assistente Virtual,25/01/2026,Casa Inteligente,291.67,2,583.34,Curitiba,Ana,Boleto,Entregue
+112,14/11/2025,Lâmpada Smart,02/12/2025,Casa Inteligente,77.17,3,231.51,Porto Alegre,Daniel,Crédito,Em Trânsito
+113,28/11/2025,Lâmpada Smart,30/11/2025,Casa Inteligente,66.16,2,132.32,Brasília,Elena,Pix,Cancelado
+114,14/11/2025,Assistente Virtual,04/01/2026,Casa Inteligente,395.82,2,791.64,Porto Alegre,Elena,Crédito,Entregue
+115,29/12/2025,Smartphone,29/12/2025,Eletrônicos,1802.33,1,1802.33,João Pessoa,Elena,Boleto,Pendente
+116,03/08/2025,Fechadura Digital,10/12/2025,Casa Inteligente,566.21,3,1698.63,João Pessoa,Ana,Boleto,Entregue
+117,25/10/2025,Teclado Mecânico,24/12/2025,Acessórios,349.73,1,349.73,Salvador,Fabio,Crédito,Em Trânsito
+118,16/07/2025,Fechadura Digital,21/12/2025,Casa Inteligente,718.64,1,718.64,São Paulo,Ana,Pix,Entregue
+119,23/07/2025,Notebook Gamer,03/12/2025,Eletrônicos,5512.03,4,22048.12,Belo Horizonte,Bruno,Crédito,Entregue
+120,21/07/2025,Lâmpada Smart,15/12/2025,Casa Inteligente,52.09,4,208.36,Porto Alegre,Carla,Crédito,Atrasado
+121,16/11/2025,Smartphone,06/01/2026,Eletrônicos,2944.06,5,14720.3,Natal,Carla,Boleto,Entregue
+122,18/11/2025,"Monitor 24""",28/12/2025,Eletrônicos,800.36,3,2401.08,Belo Horizonte,Ana,Pix,Pendente
+123,29/11/2025,Tablet,16/01/2026,Eletrônicos,1224.07,5,6120.35,Fortaleza,Fabio,Pix,Entregue
+124,07/10/2025,"Monitor 24""",04/01/2026,Eletrônicos,711.53,1,711.53,Curitiba,Fabio,Boleto,Em Trânsito
+125,07/12/2025,Webcam,29/12/2025,Acessórios,163.36,2,326.72,Curitiba,Bruno,Crédito,Entregue
+126,10/09/2025,Lâmpada Smart,20/01/2026,Casa Inteligente,79.7,1,79.7,Curitiba,Ana,Crédito,Atrasado
+127,19/09/2025,Teclado Mecânico,20/12/2025,Acessórios,220.67,5,1103.35,Belo Horizonte,Carla,Boleto,Entregue
+128,01/12/2025,Teclado Mecânico,19/01/2026,Acessórios,369.36,5,1846.8,Natal,Daniel,Boleto,Entregue
+129,10/08/2025,Headset,17/12/2025,Acessórios,283.15,2,566.3,Brasília,Fabio,Pix,Cancelado
+130,25/10/2025,Assistente Virtual,12/12/2025,Casa Inteligente,319.23,1,319.23,Porto Alegre,Bruno,Boleto,Entregue
+131,01/01/2026,Mouse Sem Fio,27/01/2026,Acessórios,88.24,5,441.2,João Pessoa,Bruno,Boleto,Entregue
+132,21/06/2025,Tablet,30/12/2025,Eletrônicos,948.83,3,2846.49,Rio de Janeiro,Fabio,Crédito,Em Trânsito
+133,08/08/2025,Lâmpada Smart,24/01/2026,Casa Inteligente,48.87,5,244.35,Brasília,Bruno,Crédito,Entregue
+134,22/06/2025,Mouse Sem Fio,30/11/2025,Acessórios,118.43,2,236.86,Curitiba,Elena,Crédito,Entregue
+135,25/08/2025,Webcam,02/01/2026,Acessórios,171.75,4,687.0,Brasília,Bruno,Pix,Pendente
+136,17/09/2025,Lâmpada Smart,18/12/2025,Casa Inteligente,52.37,4,209.48,João Pessoa,Ana,Crédito,Entregue
+137,13/07/2025,Headset,24/01/2026,Acessórios,235.82,5,1179.1,João Pessoa,Carla,Pix,Entregue
+138,19/12/2025,"Monitor 24""",23/01/2026,Eletrônicos,750.5,1,750.5,Recife,Carla,Boleto,Em Trânsito
+139,18/07/2025,Headset,23/01/2026,Acessórios,170.85,3,512.55,Fortaleza,Ana,Crédito,Entregue
+140,08/09/2025,Notebook Gamer,23/12/2025,Eletrônicos,4077.51,4,16310.04,Curitiba,Elena,Crédito,Atrasado
+141,19/01/2026,Mouse Sem Fio,27/01/2026,Acessórios,80.6,5,403.0,Recife,Carla,Boleto,Pendente
+142,13/09/2025,Webcam,17/01/2026,Acessórios,177.93,5,889.65,Natal,Ana,Boleto,Entregue
+143,15/05/2025,"Monitor 24""",01/12/2025,Eletrônicos,1189.61,3,3568.83,Curitiba,Daniel,Boleto,Entregue
+144,27/07/2025,"Monitor 24""",17/12/2025,Eletrônicos,794.5,4,3178.0,Fortaleza,Carla,Crédito,Entregue
+145,22/10/2025,Headset,13/12/2025,Acessórios,246.76,2,493.52,João Pessoa,Carla,Boleto,Entregue
+146,17/07/2025,Tablet,04/01/2026,Eletrônicos,1235.68,1,1235.68,João Pessoa,Daniel,Boleto,Entregue
+147,03/07/2025,Webcam,27/12/2025,Acessórios,105.62,2,211.24,São Paulo,Daniel,Pix,Entregue
+148,19/09/2025,Mouse Sem Fio,06/12/2025,Acessórios,106.9,4,427.6,Salvador,Daniel,Pix,Entregue
+149,28/10/2025,Fechadura Digital,18/12/2025,Casa Inteligente,596.46,3,1789.38,Belo Horizonte,Fabio,Crédito,Entregue
+150,15/09/2025,Assistente Virtual,29/12/2025,Casa Inteligente,275.24,2,550.48,Belo Horizonte,Daniel,Boleto,Em Trânsito
+151,06/11/2025,Tablet,11/12/2025,Eletrônicos,1020.3,2,2040.6,Recife,Fabio,Boleto,Entregue
+152,04/06/2025,"Monitor 24""",18/12/2025,Eletrônicos,843.63,4,3374.52,Salvador,Ana,Pix,Entregue
+153,02/10/2025,Teclado Mecânico,30/12/2025,Acessórios,314.52,2,629.04,Brasília,Elena,Crédito,Entregue
+154,28/08/2025,"Monitor 24""",25/12/2025,Eletrônicos,895.02,3,2685.06,Fortaleza,Elena,Crédito,Entregue
+155,30/07/2025,Lâmpada Smart,21/01/2026,Casa Inteligente,57.54,3,172.62,Fortaleza,Ana,Pix,Entregue
+156,15/10/2025,Fechadura Digital,18/01/2026,Casa Inteligente,799.48,4,3197.92,Salvador,Bruno,Crédito,Em Trânsito
+157,03/07/2025,Mouse Sem Fio,11/12/2025,Acessórios,99.96,2,199.92,Rio de Janeiro,Carla,Crédito,Entregue
+158,02/08/2025,Notebook Gamer,09/01/2026,Eletrônicos,3858.57,3,11575.71,Salvador,Fabio,Pix,Entregue
+159,25/08/2025,Teclado Mecânico,07/12/2025,Acessórios,319.78,1,319.78,Salvador,Fabio,Crédito,Entregue
+160,19/11/2025,Smartphone,31/12/2025,Eletrônicos,3178.45,5,15892.25,Brasília,Daniel,Pix,Entregue
+161,20/08/2025,"Monitor 24""",28/12/2025,Eletrônicos,610.31,1,610.31,Recife,Daniel,Crédito,Entregue
+162,18/09/2025,Notebook Gamer,16/12/2025,Eletrônicos,3736.55,2,7473.1,São Paulo,Carla,Boleto,Entregue
+163,24/09/2025,Lâmpada Smart,29/12/2025,Casa Inteligente,78.19,2,156.38,Fortaleza,Daniel,Crédito,Entregue
+164,15/10/2025,Lâmpada Smart,17/12/2025,Casa Inteligente,69.65,2,139.3,Porto Alegre,Elena,Crédito,Pendente
+165,01/11/2025,Fechadura Digital,22/01/2026,Casa Inteligente,519.05,1,519.05,Curitiba,Fabio,Boleto,Devolvido
+166,20/06/2025,Smartphone,19/12/2025,Eletrônicos,3887.45,3,11662.35,Fortaleza,Fabio,Crédito,Entregue
+167,11/01/2026,Mouse Sem Fio,13/01/2026,Acessórios,138.76,2,277.52,Natal,Fabio,Boleto,Devolvido
+168,16/08/2025,Mouse Sem Fio,05/12/2025,Acessórios,142.96,4,571.84,Curitiba,Daniel,Boleto,Entregue
+169,15/11/2025,Assistente Virtual,28/12/2025,Casa Inteligente,283.05,2,566.1,Curitiba,Carla,Boleto,Atrasado
+170,16/08/2025,Assistente Virtual,17/12/2025,Casa Inteligente,493.56,4,1974.24,João Pessoa,Bruno,Boleto,Devolvido
+171,14/11/2025,"Monitor 24""",18/12/2025,Eletrônicos,1107.22,5,5536.1,Natal,Fabio,Pix,Entregue
+172,23/09/2025,Smartphone,20/01/2026,Eletrônicos,2789.36,2,5578.72,Porto Alegre,Elena,Crédito,Entregue
+173,30/06/2025,Fechadura Digital,21/12/2025,Casa Inteligente,549.7,2,1099.4,Rio de Janeiro,Daniel,Boleto,Entregue
+174,01/08/2025,Assistente Virtual,02/12/2025,Casa Inteligente,450.38,4,1801.52,João Pessoa,Daniel,Crédito,Em Trânsito
+175,24/11/2025,Teclado Mecânico,23/12/2025,Acessórios,375.54,1,375.54,Fortaleza,Fabio,Pix,Entregue
+176,24/07/2025,Teclado Mecânico,25/12/2025,Acessórios,278.81,2,557.62,São Paulo,Ana,Pix,Entregue
+177,29/07/2025,Assistente Virtual,10/12/2025,Casa Inteligente,370.41,5,1852.05,Porto Alegre,Bruno,Boleto,Atrasado
+178,06/12/2025,Webcam,19/12/2025,Acessórios,238.58,2,477.16,Recife,Fabio,Crédito,Entregue
+179,04/07/2025,Smartphone,23/12/2025,Eletrônicos,2183.54,1,2183.54,João Pessoa,Ana,Pix,Entregue
+180,24/10/2025,Headset,17/12/2025,Acessórios,262.25,3,786.75,Porto Alegre,Bruno,Crédito,Entregue
+181,03/01/2026,Headset,26/01/2026,Acessórios,132.75,1,132.75,Fortaleza,Bruno,Boleto,Entregue
+182,26/09/2025,Headset,18/12/2025,Acessórios,142.16,3,426.48,Belo Horizonte,Carla,Pix,Entregue
+183,24/07/2025,Fechadura Digital,15/01/2026,Casa Inteligente,650.35,5,3251.75,Brasília,Elena,Boleto,Entregue
+184,19/06/2025,Fechadura Digital,02/01/2026,Casa Inteligente,763.26,3,2289.78,Recife,Fabio,Crédito,Entregue
+185,01/08/2025,Webcam,28/12/2025,Acessórios,154.31,4,617.24,Porto Alegre,Carla,Crédito,Entregue
+186,12/09/2025,Smartphone,04/12/2025,Eletrônicos,2631.85,4,10527.4,Salvador,Bruno,Boleto,Atrasado
+187,23/08/2025,Assistente Virtual,02/12/2025,Casa Inteligente,471.74,5,2358.7,Porto Alegre,Bruno,Crédito,Entregue
+188,07/07/2025,Lâmpada Smart,07/12/2025,Casa Inteligente,47.76,4,191.04,Salvador,Bruno,Pix,Entregue
+189,18/07/2025,"Monitor 24""",14/01/2026,Eletrônicos,628.37,2,1256.74,Fortaleza,Bruno,Boleto,Entregue
+190,04/12/2025,Headset,16/01/2026,Acessórios,107.96,3,323.88,Fortaleza,Ana,Crédito,Pendente
+191,16/09/2025,Teclado Mecânico,18/12/2025,Acessórios,187.09,4,748.36,Salvador,Daniel,Boleto,Entregue
+192,07/09/2025,Teclado Mecânico,09/12/2025,Acessórios,156.9,2,313.8,São Paulo,Fabio,Crédito,Entregue
+193,02/09/2025,Notebook Gamer,08/01/2026,Eletrônicos,5457.89,5,27289.45,Belo Horizonte,Elena,Crédito,Entregue
+194,09/08/2025,Assistente Virtual,31/12/2025,Casa Inteligente,351.01,4,1404.04,São Paulo,Carla,Boleto,Entregue
+195,02/08/2025,Tablet,18/12/2025,Eletrônicos,1227.93,3,3683.79,Fortaleza,Carla,Boleto,Entregue
+196,14/11/2025,"Monitor 24""",25/01/2026,Eletrônicos,666.96,5,3334.8,Recife,Daniel,Pix,Entregue
+197,26/07/2025,Teclado Mecânico,31/12/2025,Acessórios,314.91,1,314.91,João Pessoa,Daniel,Boleto,Entregue
+198,14/09/2025,Lâmpada Smart,28/01/2026,Casa Inteligente,54.22,2,108.44,Salvador,Fabio,Crédito,Entregue
+199,29/07/2025,Lâmpada Smart,30/12/2025,Casa Inteligente,43.48,3,130.44,Rio de Janeiro,Bruno,Pix,Entregue
+200,20/06/2025,Notebook Gamer,24/12/2025,Eletrônicos,4077.18,4,16308.72,Natal,Carla,Pix,Entregue
+201,23/10/2025,Headset,14/12/2025,Acessórios,179.62,2,359.24,Salvador,Bruno,Pix,Cancelado
+202,28/08/2025,Teclado Mecânico,25/12/2025,Acessórios,340.12,4,1360.48,Belo Horizonte,Bruno,Crédito,Pendente
+203,01/11/2025,Lâmpada Smart,08/12/2025,Casa Inteligente,78.9,2,157.8,Fortaleza,Fabio,Crédito,Entregue
+204,25/09/2025,Fechadura Digital,20/12/2025,Casa Inteligente,603.65,3,1810.95,Belo Horizonte,Daniel,Pix,Devolvido
+205,12/12/2025,Mouse Sem Fio,31/12/2025,Acessórios,93.78,1,93.78,Natal,Elena,Pix,Entregue
+206,04/08/2025,Notebook Gamer,17/12/2025,Eletrônicos,5512.95,4,22051.8,Curitiba,Bruno,Crédito,Entregue
+207,07/01/2026,Tablet,29/01/2026,Eletrônicos,1193.02,1,1193.02,Rio de Janeiro,Elena,Crédito,Entregue
+208,29/06/2025,Assistente Virtual,27/12/2025,Casa Inteligente,446.17,3,1338.51,Belo Horizonte,Fabio,Pix,Entregue
+209,16/06/2025,Notebook Gamer,09/12/2025,Eletrônicos,5775.42,1,5775.42,Rio de Janeiro,Elena,Boleto,Entregue
+210,17/08/2025,Notebook Gamer,22/01/2026,Eletrônicos,3871.71,2,7743.42,Rio de Janeiro,Daniel,Pix,Devolvido
+211,14/09/2025,Notebook Gamer,05/12/2025,Eletrônicos,5564.58,5,27822.9,Rio de Janeiro,Fabio,Crédito,Pendente
+212,31/10/2025,Mouse Sem Fio,22/12/2025,Acessórios,142.5,3,427.5,São Paulo,Ana,Pix,Entregue
+213,10/06/2025,Teclado Mecânico,02/12/2025,Acessórios,344.48,2,688.96,Fortaleza,Fabio,Crédito,Entregue
+214,24/07/2025,"Monitor 24""",11/01/2026,Eletrônicos,1190.77,3,3572.31,Fortaleza,Daniel,Boleto,Entregue
+215,14/10/2025,Fechadura Digital,28/12/2025,Casa Inteligente,896.25,5,4481.25,Porto Alegre,Daniel,Pix,Devolvido
+216,07/09/2025,Tablet,27/12/2025,Eletrônicos,835.75,2,1671.5,Fortaleza,Ana,Crédito,Entregue
+217,27/12/2025,Fechadura Digital,03/01/2026,Casa Inteligente,764.94,3,2294.82,Natal,Carla,Crédito,Entregue
+218,03/12/2025,Headset,07/01/2026,Acessórios,141.65,5,708.25,Rio de Janeiro,Daniel,Pix,Entregue
+219,29/08/2025,"Monitor 24""",26/01/2026,Eletrônicos,815.83,5,4079.15,Natal,Carla,Pix,Entregue
+220,07/10/2025,Lâmpada Smart,31/12/2025,Casa Inteligente,66.14,4,264.56,Recife,Bruno,Pix,Cancelado
+221,18/09/2025,Notebook Gamer,28/01/2026,Eletrônicos,5204.68,5,26023.4,Brasília,Bruno,Boleto,Entregue
+222,11/07/2025,Teclado Mecânico,19/12/2025,Acessórios,309.48,3,928.44,João Pessoa,Carla,Boleto,Entregue
+223,23/08/2025,Assistente Virtual,05/12/2025,Casa Inteligente,352.4,4,1409.6,Salvador,Daniel,Crédito,Entregue
+224,05/09/2025,Tablet,12/01/2026,Eletrônicos,988.8,5,4944.0,Fortaleza,Daniel,Boleto,Devolvido
+225,30/10/2025,Headset,01/12/2025,Acessórios,180.39,3,541.17,Belo Horizonte,Elena,Crédito,Em Trânsito
+226,11/10/2025,Lâmpada Smart,31/12/2025,Casa Inteligente,55.13,5,275.65,Belo Horizonte,Daniel,Crédito,Entregue
+227,15/07/2025,Webcam,13/12/2025,Acessórios,248.91,1,248.91,Natal,Fabio,Pix,Em Trânsito
+228,04/11/2025,Headset,19/01/2026,Acessórios,149.58,4,598.32,Fortaleza,Daniel,Crédito,Entregue
+229,15/09/2025,Smartphone,17/12/2025,Eletrônicos,3815.27,3,11445.81,João Pessoa,Elena,Pix,Entregue
+230,29/07/2025,Fechadura Digital,09/12/2025,Casa Inteligente,616.77,2,1233.54,Natal,Carla,Pix,Em Trânsito
+231,25/09/2025,Assistente Virtual,01/12/2025,Casa Inteligente,424.25,4,1697.0,Brasília,Carla,Pix,Entregue
+232,16/09/2025,"Monitor 24""",05/12/2025,Eletrônicos,961.88,3,2885.64,Recife,Ana,Boleto,Entregue
+233,01/09/2025,Smartphone,16/12/2025,Eletrônicos,2269.81,2,4539.62,Fortaleza,Bruno,Pix,Devolvido
+234,11/11/2025,Fechadura Digital,07/12/2025,Casa Inteligente,665.1,1,665.1,Recife,Bruno,Crédito,Entregue
+235,02/01/2026,Assistente Virtual,15/01/2026,Casa Inteligente,266.16,5,1330.8,Salvador,Carla,Crédito,Pendente
+236,04/12/2025,Fechadura Digital,04/01/2026,Casa Inteligente,482.24,3,1446.72,Rio de Janeiro,Ana,Boleto,Entregue
+237,14/08/2025,Fechadura Digital,23/01/2026,Casa Inteligente,549.44,4,2197.76,Rio de Janeiro,Fabio,Pix,Atrasado
+238,01/12/2025,Fechadura Digital,23/12/2025,Casa Inteligente,416.02,2,832.04,São Paulo,Elena,Pix,Entregue
+239,13/12/2025,Lâmpada Smart,27/01/2026,Casa Inteligente,73.35,5,366.75,Porto Alegre,Bruno,Crédito,Devolvido
+240,13/10/2025,Lâmpada Smart,24/12/2025,Casa Inteligente,44.47,3,133.41,Salvador,Ana,Crédito,Entregue
+241,24/07/2025,Lâmpada Smart,06/01/2026,Casa Inteligente,61.74,1,61.74,Brasília,Fabio,Pix,Cancelado
+242,22/10/2025,Teclado Mecânico,23/01/2026,Acessórios,346.91,3,1040.73,Rio de Janeiro,Elena,Boleto,Entregue
+243,04/10/2025,Assistente Virtual,08/12/2025,Casa Inteligente,322.61,1,322.61,Salvador,Bruno,Crédito,Entregue
+244,13/01/2026,Smartphone,29/01/2026,Eletrônicos,3826.83,1,3826.83,João Pessoa,Fabio,Boleto,Entregue
+245,14/12/2025,Webcam,13/01/2026,Acessórios,112.31,4,449.24,Porto Alegre,Ana,Pix,Entregue
+246,08/10/2025,Teclado Mecânico,10/12/2025,Acessórios,354.29,2,708.58,Brasília,Elena,Pix,Entregue
+247,08/01/2026,"Monitor 24""",28/01/2026,Eletrônicos,893.85,4,3575.4,Fortaleza,Ana,Crédito,Entregue
+248,12/06/2025,Notebook Gamer,16/12/2025,Eletrônicos,4381.0,5,21905.0,São Paulo,Carla,Crédito,Entregue
+249,13/09/2025,Webcam,26/01/2026,Acessórios,125.43,5,627.15,Rio de Janeiro,Fabio,Pix,Entregue
+250,01/07/2025,Notebook Gamer,07/01/2026,Eletrônicos,3574.72,1,3574.72,Natal,Daniel,Crédito,Atrasado
+251,18/11/2025,Smartphone,31/12/2025,Eletrônicos,1945.73,2,3891.46,Recife,Carla,Crédito,Atrasado
+252,25/08/2025,Teclado Mecânico,28/01/2026,Acessórios,203.43,3,610.29,Salvador,Carla,Pix,Entregue
+253,05/09/2025,Assistente Virtual,02/01/2026,Casa Inteligente,438.1,5,2190.5,Salvador,Elena,Pix,Entregue
+254,16/10/2025,Notebook Gamer,18/01/2026,Eletrônicos,4581.08,4,18324.32,Recife,Ana,Crédito,Em Trânsito
+255,19/12/2025,Smartphone,29/01/2026,Eletrônicos,3565.79,3,10697.37,João Pessoa,Daniel,Boleto,Entregue
+256,03/08/2025,Tablet,15/12/2025,Eletrônicos,1327.62,3,3982.86,Belo Horizonte,Bruno,Crédito,Atrasado
+257,07/10/2025,Notebook Gamer,18/12/2025,Eletrônicos,5937.41,5,29687.05,Rio de Janeiro,Bruno,Boleto,Em Trânsito
+258,02/12/2025,Headset,12/12/2025,Acessórios,298.05,2,596.1,Fortaleza,Daniel,Boleto,Pendente
+259,25/11/2025,Tablet,12/01/2026,Eletrônicos,1430.19,4,5720.76,Salvador,Daniel,Pix,Em Trânsito
+260,25/05/2025,Notebook Gamer,11/12/2025,Eletrônicos,4312.42,4,17249.68,Belo Horizonte,Ana,Pix,Entregue
+261,12/10/2025,Webcam,25/01/2026,Acessórios,231.92,3,695.76,Fortaleza,Fabio,Boleto,Entregue
+262,07/11/2025,Mouse Sem Fio,13/12/2025,Acessórios,88.51,2,177.02,São Paulo,Daniel,Crédito,Entregue
+263,15/06/2025,Tablet,24/12/2025,Eletrônicos,1398.85,4,5595.4,Belo Horizonte,Carla,Boleto,Pendente
+264,10/11/2025,Fechadura Digital,25/12/2025,Casa Inteligente,822.49,4,3289.96,Brasília,Fabio,Pix,Entregue
+265,06/09/2025,Assistente Virtual,30/11/2025,Casa Inteligente,347.54,5,1737.7,Fortaleza,Ana,Boleto,Entregue
+266,25/08/2025,Tablet,04/12/2025,Eletrônicos,1385.9,2,2771.8,Fortaleza,Fabio,Pix,Entregue
+267,11/12/2025,Webcam,28/01/2026,Acessórios,142.13,3,426.39,Recife,Elena,Boleto,Em Trânsito
+268,28/10/2025,Webcam,28/01/2026,Acessórios,153.95,4,615.8,Fortaleza,Elena,Boleto,Cancelado
+269,22/08/2025,Tablet,31/12/2025,Eletrônicos,947.94,3,2843.82,João Pessoa,Carla,Pix,Entregue
+270,27/10/2025,Mouse Sem Fio,08/12/2025,Acessórios,147.49,4,589.96,Recife,Elena,Boleto,Pendente
+271,24/11/2025,"Monitor 24""",09/01/2026,Eletrônicos,990.44,2,1980.88,Recife,Fabio,Boleto,Entregue
+272,09/12/2025,Tablet,08/01/2026,Eletrônicos,1242.99,1,1242.99,Recife,Bruno,Boleto,Entregue
+273,07/01/2026,Lâmpada Smart,11/01/2026,Casa Inteligente,58.37,3,175.11,São Paulo,Carla,Boleto,Entregue
+274,19/09/2025,Fechadura Digital,25/12/2025,Casa Inteligente,833.13,4,3332.52,Porto Alegre,Carla,Crédito,Entregue
+275,16/08/2025,"Monitor 24""",18/01/2026,Eletrônicos,658.82,5,3294.1,João Pessoa,Carla,Boleto,Pendente
+276,12/08/2025,Tablet,07/12/2025,Eletrônicos,1448.95,2,2897.9,Fortaleza,Ana,Pix,Entregue
+277,21/09/2025,Headset,22/01/2026,Acessórios,204.54,5,1022.7,Natal,Elena,Boleto,Em Trânsito
+278,05/01/2026,Notebook Gamer,24/01/2026,Eletrônicos,4548.84,1,4548.84,Brasília,Ana,Pix,Pendente
+279,20/11/2025,"Monitor 24""",04/12/2025,Eletrônicos,867.16,2,1734.32,Belo Horizonte,Bruno,Pix,Atrasado
+280,17/07/2025,Mouse Sem Fio,22/01/2026,Acessórios,51.36,2,102.72,João Pessoa,Daniel,Pix,Entregue
+281,21/07/2025,Fechadura Digital,07/01/2026,Casa Inteligente,640.75,3,1922.25,Porto Alegre,Carla,Crédito,Entregue
+282,25/08/2025,Fechadura Digital,25/01/2026,Casa Inteligente,672.94,3,2018.82,São Paulo,Fabio,Pix,Entregue
+283,05/07/2025,Webcam,04/01/2026,Acessórios,187.75,4,751.0,Belo Horizonte,Fabio,Pix,Em Trânsito
+284,23/06/2025,Teclado Mecânico,10/12/2025,Acessórios,180.0,5,900.0,Salvador,Ana,Crédito,Entregue
+285,12/10/2025,Lâmpada Smart,23/01/2026,Casa Inteligente,61.25,5,306.25,Curitiba,Fabio,Crédito,Entregue
+286,18/12/2025,Tablet,03/01/2026,Eletrônicos,1368.22,2,2736.44,Porto Alegre,Bruno,Boleto,Entregue
+287,29/11/2025,"Monitor 24""",20/12/2025,Eletrônicos,731.81,2,1463.62,Belo Horizonte,Carla,Crédito,Entregue
+288,08/12/2025,Webcam,06/01/2026,Acessórios,222.33,4,889.32,São Paulo,Ana,Boleto,Em Trânsito
+289,26/06/2025,Smartphone,18/12/2025,Eletrônicos,3878.37,4,15513.48,Brasília,Bruno,Pix,Atrasado
+290,08/08/2025,Fechadura Digital,12/01/2026,Casa Inteligente,456.77,2,913.54,Fortaleza,Carla,Crédito,Entregue
+291,05/11/2025,Assistente Virtual,08/12/2025,Casa Inteligente,357.48,1,357.48,Fortaleza,Ana,Pix,Entregue
+292,29/11/2025,Fechadura Digital,30/11/2025,Casa Inteligente,448.6,5,2243.0,Porto Alegre,Fabio,Pix,Entregue
+293,20/08/2025,Mouse Sem Fio,15/01/2026,Acessórios,97.79,5,488.95,Curitiba,Daniel,Pix,Entregue
+294,09/12/2025,Webcam,18/01/2026,Acessórios,211.96,3,635.88,Recife,Ana,Boleto,Pendente
+295,13/08/2025,Notebook Gamer,09/12/2025,Eletrônicos,4204.56,5,21022.8,Fortaleza,Daniel,Pix,Entregue
+296,07/11/2025,Webcam,04/01/2026,Acessórios,223.89,5,1119.45,Natal,Bruno,Crédito,Entregue
+297,12/08/2025,Fechadura Digital,19/01/2026,Casa Inteligente,666.22,5,3331.1,João Pessoa,Elena,Boleto,Entregue
+298,21/09/2025,Smartphone,02/12/2025,Eletrônicos,3871.17,4,15484.68,Brasília,Ana,Crédito,Entregue
+299,12/11/2025,Lâmpada Smart,30/11/2025,Casa Inteligente,61.95,4,247.8,Porto Alegre,Fabio,Crédito,Entregue
+300,12/12/2025,Webcam,12/01/2026,Acessórios,149.22,5,746.1,Fortaleza,Daniel,Pix,Pendente
+301,21/09/2025,Notebook Gamer,26/12/2025,Eletrônicos,4224.73,4,16898.92,Recife,Ana,Crédito,Em Trânsito
+302,08/10/2025,Fechadura Digital,14/12/2025,Casa Inteligente,483.01,2,966.02,Porto Alegre,Fabio,Boleto,Entregue
+303,29/10/2025,Tablet,16/12/2025,Eletrônicos,1129.13,3,3387.39,Fortaleza,Bruno,Boleto,Entregue
+304,06/01/2026,Lâmpada Smart,23/01/2026,Casa Inteligente,46.46,1,46.46,João Pessoa,Elena,Crédito,Entregue
+305,30/12/2025,Smartphone,03/01/2026,Eletrônicos,3120.02,1,3120.02,Porto Alegre,Fabio,Boleto,Entregue
+306,05/08/2025,Notebook Gamer,11/12/2025,Eletrônicos,5058.81,4,20235.24,Brasília,Fabio,Boleto,Pendente
+307,09/11/2025,Teclado Mecânico,19/01/2026,Acessórios,397.14,1,397.14,Curitiba,Carla,Pix,Entregue
+308,23/08/2025,Mouse Sem Fio,31/12/2025,Acessórios,67.44,2,134.88,Salvador,Ana,Boleto,Entregue
+309,29/09/2025,Notebook Gamer,02/12/2025,Eletrônicos,5837.18,4,23348.72,Fortaleza,Bruno,Crédito,Entregue
+310,04/09/2025,Notebook Gamer,25/01/2026,Eletrônicos,3932.0,3,11796.0,São Paulo,Bruno,Crédito,Entregue
+311,17/11/2025,Webcam,20/01/2026,Acessórios,177.65,1,177.65,Curitiba,Carla,Crédito,Devolvido
+312,17/09/2025,Tablet,30/12/2025,Eletrônicos,1134.06,2,2268.12,Rio de Janeiro,Carla,Crédito,Atrasado
+313,14/11/2025,"Monitor 24""",20/12/2025,Eletrônicos,1089.8,1,1089.8,Brasília,Elena,Boleto,Entregue
+314,12/07/2025,Fechadura Digital,14/01/2026,Casa Inteligente,875.67,5,4378.35,Porto Alegre,Fabio,Pix,Entregue
+315,21/06/2025,Fechadura Digital,18/12/2025,Casa Inteligente,884.88,4,3539.52,Salvador,Elena,Pix,Entregue
+316,26/09/2025,Headset,12/12/2025,Acessórios,215.74,4,862.96,João Pessoa,Daniel,Boleto,Entregue
+317,04/08/2025,Lâmpada Smart,08/12/2025,Casa Inteligente,73.82,1,73.82,Curitiba,Daniel,Boleto,Entregue
+318,08/07/2025,Teclado Mecânico,01/12/2025,Acessórios,195.25,4,781.0,Natal,Daniel,Boleto,Entregue
+319,20/12/2025,Notebook Gamer,30/12/2025,Eletrônicos,5734.38,2,11468.76,Rio de Janeiro,Bruno,Pix,Pendente
+320,09/08/2025,Tablet,28/01/2026,Eletrônicos,1024.92,4,4099.68,Natal,Bruno,Pix,Entregue
+321,16/09/2025,Mouse Sem Fio,03/12/2025,Acessórios,58.53,5,292.65,Salvador,Daniel,Boleto,Entregue
+322,03/08/2025,Teclado Mecânico,06/12/2025,Acessórios,168.44,1,168.44,Rio de Janeiro,Elena,Crédito,Entregue
+323,26/10/2025,Tablet,03/01/2026,Eletrônicos,898.45,3,2695.35,Fortaleza,Daniel,Pix,Entregue
+324,10/07/2025,Assistente Virtual,18/01/2026,Casa Inteligente,322.39,1,322.39,Belo Horizonte,Elena,Pix,Entregue
+325,13/09/2025,Webcam,10/12/2025,Acessórios,104.37,4,417.48,Curitiba,Elena,Boleto,Entregue
+326,06/01/2026,Mouse Sem Fio,06/01/2026,Acessórios,127.16,5,635.8,Recife,Bruno,Pix,Entregue
+327,27/11/2025,Lâmpada Smart,13/01/2026,Casa Inteligente,71.98,4,287.92,João Pessoa,Carla,Boleto,Entregue
+328,13/01/2026,Lâmpada Smart,18/01/2026,Casa Inteligente,77.39,2,154.78,Salvador,Daniel,Crédito,Entregue
+329,08/11/2025,Assistente Virtual,15/12/2025,Casa Inteligente,435.99,4,1743.96,Brasília,Daniel,Boleto,Entregue
+330,05/12/2025,Smartphone,01/01/2026,Eletrônicos,3050.08,4,12200.32,Brasília,Ana,Pix,Devolvido
+331,09/09/2025,Tablet,29/12/2025,Eletrônicos,1438.59,5,7192.95,Fortaleza,Carla,Pix,Entregue
+332,09/10/2025,Mouse Sem Fio,18/01/2026,Acessórios,120.12,5,600.6,Rio de Janeiro,Elena,Boleto,Cancelado
+333,27/06/2025,"Monitor 24""",21/12/2025,Eletrônicos,911.65,2,1823.3,Curitiba,Carla,Crédito,Entregue
+334,20/09/2025,"Monitor 24""",21/01/2026,Eletrônicos,1095.48,2,2190.96,Brasília,Carla,Crédito,Atrasado
+335,01/12/2025,Assistente Virtual,16/12/2025,Casa Inteligente,384.87,4,1539.48,Salvador,Ana,Pix,Atrasado
+336,29/11/2025,"Monitor 24""",01/01/2026,Eletrônicos,849.84,3,2549.52,João Pessoa,Elena,Pix,Em Trânsito
+337,04/11/2025,Headset,03/01/2026,Acessórios,127.5,2,255.0,Salvador,Fabio,Boleto,Entregue
+338,11/07/2025,Mouse Sem Fio,28/12/2025,Acessórios,81.62,1,81.62,São Paulo,Daniel,Pix,Em Trânsito
+339,15/07/2025,Smartphone,14/12/2025,Eletrônicos,2085.01,4,8340.04,Salvador,Elena,Crédito,Entregue
+340,17/07/2025,Mouse Sem Fio,18/12/2025,Acessórios,129.05,4,516.2,João Pessoa,Bruno,Crédito,Devolvido
+341,30/11/2025,Notebook Gamer,21/12/2025,Eletrônicos,4284.4,1,4284.4,Curitiba,Carla,Pix,Entregue
+342,12/08/2025,Webcam,30/12/2025,Acessórios,108.48,1,108.48,Curitiba,Ana,Pix,Entregue
+343,30/07/2025,Mouse Sem Fio,10/01/2026,Acessórios,98.02,2,196.04,São Paulo,Fabio,Boleto,Devolvido
+344,28/10/2025,Mouse Sem Fio,19/12/2025,Acessórios,110.31,3,330.93,Rio de Janeiro,Elena,Crédito,Entregue
+345,28/11/2025,"Monitor 24""",19/12/2025,Eletrônicos,635.69,2,1271.38,Recife,Carla,Pix,Entregue
+346,30/07/2025,Fechadura Digital,26/01/2026,Casa Inteligente,716.52,5,3582.6,Porto Alegre,Daniel,Pix,Entregue
+347,07/08/2025,Assistente Virtual,30/12/2025,Casa Inteligente,460.08,2,920.16,Porto Alegre,Daniel,Crédito,Cancelado
+348,02/11/2025,Lâmpada Smart,18/12/2025,Casa Inteligente,77.7,3,233.1,João Pessoa,Ana,Pix,Cancelado
+349,19/07/2025,Notebook Gamer,25/01/2026,Eletrônicos,4679.7,1,4679.7,Brasília,Bruno,Pix,Entregue
+350,02/07/2025,Assistente Virtual,25/12/2025,Casa Inteligente,469.49,2,938.98,Rio de Janeiro,Fabio,Pix,Devolvido
+351,02/07/2025,Headset,18/01/2026,Acessórios,257.95,4,1031.8,João Pessoa,Daniel,Boleto,Entregue
+352,10/08/2025,Headset,18/01/2026,Acessórios,167.46,1,167.46,Curitiba,Fabio,Crédito,Em Trânsito
+353,07/07/2025,Lâmpada Smart,16/12/2025,Casa Inteligente,71.17,4,284.68,Natal,Daniel,Crédito,Entregue
+354,21/05/2025,Headset,04/12/2025,Acessórios,275.52,4,1102.08,Curitiba,Daniel,Boleto,Entregue
+355,26/07/2025,Webcam,03/01/2026,Acessórios,208.34,2,416.68,Natal,Carla,Crédito,Entregue
+356,16/10/2025,Teclado Mecânico,16/01/2026,Acessórios,292.39,1,292.39,Brasília,Fabio,Crédito,Entregue
+357,25/11/2025,Tablet,11/12/2025,Eletrônicos,1150.09,3,3450.27,Porto Alegre,Elena,Crédito,Entregue
+358,20/08/2025,Smartphone,11/01/2026,Eletrônicos,2474.61,1,2474.61,Porto Alegre,Bruno,Crédito,Entregue
+359,03/11/2025,Mouse Sem Fio,25/01/2026,Acessórios,88.62,2,177.24,Rio de Janeiro,Ana,Boleto,Entregue
+360,14/07/2025,Headset,22/12/2025,Acessórios,278.5,5,1392.5,Rio de Janeiro,Daniel,Crédito,Entregue
+361,31/08/2025,Headset,02/01/2026,Acessórios,266.19,3,798.57,São Paulo,Daniel,Boleto,Pendente
+362,05/10/2025,Webcam,27/01/2026,Acessórios,232.95,1,232.95,João Pessoa,Fabio,Pix,Entregue
+363,28/11/2025,Smartphone,23/12/2025,Eletrônicos,3657.03,3,10971.09,Curitiba,Ana,Crédito,Entregue
+364,28/09/2025,Webcam,13/01/2026,Acessórios,100.81,3,302.43,Curitiba,Carla,Boleto,Pendente
+365,01/01/2026,Mouse Sem Fio,06/01/2026,Acessórios,103.25,5,516.25,Belo Horizonte,Carla,Pix,Entregue
+366,13/10/2025,Smartphone,12/01/2026,Eletrônicos,2867.93,4,11471.72,Rio de Janeiro,Bruno,Boleto,Entregue
+367,13/12/2025,Tablet,27/01/2026,Eletrônicos,1031.21,4,4124.84,Belo Horizonte,Carla,Pix,Atrasado
+368,13/08/2025,Tablet,27/01/2026,Eletrônicos,806.07,3,2418.21,São Paulo,Daniel,Pix,Entregue
+369,27/10/2025,Lâmpada Smart,26/12/2025,Casa Inteligente,69.51,3,208.53,Porto Alegre,Carla,Boleto,Em Trânsito
+370,18/11/2025,Mouse Sem Fio,22/12/2025,Acessórios,57.27,5,286.35,Salvador,Elena,Boleto,Em Trânsito
+371,31/10/2025,Mouse Sem Fio,06/12/2025,Acessórios,52.44,3,157.32,Porto Alegre,Fabio,Boleto,Entregue
+372,12/09/2025,Notebook Gamer,23/01/2026,Eletrônicos,4665.82,1,4665.82,Fortaleza,Ana,Pix,Entregue
+373,10/01/2026,Webcam,18/01/2026,Acessórios,185.35,5,926.75,Recife,Ana,Crédito,Entregue
+374,20/09/2025,Lâmpada Smart,06/12/2025,Casa Inteligente,68.01,3,204.03,Natal,Daniel,Pix,Entregue
+375,08/11/2025,Assistente Virtual,21/01/2026,Casa Inteligente,404.73,2,809.46,Curitiba,Carla,Crédito,Entregue
+376,31/07/2025,Fechadura Digital,17/01/2026,Casa Inteligente,517.8,3,1553.4,João Pessoa,Elena,Crédito,Atrasado
+377,04/09/2025,Teclado Mecânico,26/01/2026,Acessórios,289.78,2,579.56,Rio de Janeiro,Bruno,Boleto,Entregue
+378,21/10/2025,"Monitor 24""",31/12/2025,Eletrônicos,1007.09,4,4028.36,Natal,Carla,Crédito,Entregue
+379,06/01/2026,Notebook Gamer,14/01/2026,Eletrônicos,3677.71,2,7355.42,Recife,Fabio,Boleto,Entregue
+380,08/10/2025,Lâmpada Smart,10/12/2025,Casa Inteligente,48.91,3,146.73,Salvador,Ana,Crédito,Entregue
+381,22/11/2025,Assistente Virtual,25/01/2026,Casa Inteligente,360.71,1,360.71,Recife,Elena,Pix,Cancelado
+382,03/10/2025,Fechadura Digital,27/01/2026,Casa Inteligente,480.83,5,2404.15,João Pessoa,Elena,Pix,Cancelado
+383,10/11/2025,Lâmpada Smart,05/01/2026,Casa Inteligente,54.35,5,271.75,Natal,Carla,Boleto,Entregue
+384,27/07/2025,Assistente Virtual,17/12/2025,Casa Inteligente,498.82,1,498.82,Salvador,Elena,Crédito,Entregue
+385,28/11/2025,Lâmpada Smart,12/12/2025,Casa Inteligente,49.02,4,196.08,Curitiba,Daniel,Boleto,Entregue
+386,04/09/2025,Smartphone,05/01/2026,Eletrônicos,1819.75,4,7279.0,Porto Alegre,Elena,Crédito,Cancelado
+387,12/08/2025,Assistente Virtual,17/12/2025,Casa Inteligente,423.79,4,1695.16,Salvador,Bruno,Boleto,Cancelado
+388,21/11/2025,Mouse Sem Fio,30/12/2025,Acessórios,54.82,1,54.82,Salvador,Bruno,Crédito,Entregue
+389,12/06/2025,Teclado Mecânico,17/12/2025,Acessórios,238.88,5,1194.4,Belo Horizonte,Carla,Crédito,Entregue
+390,13/08/2025,Smartphone,05/12/2025,Eletrônicos,2455.99,2,4911.98,Rio de Janeiro,Bruno,Boleto,Atrasado
+391,29/10/2025,Teclado Mecânico,18/01/2026,Acessórios,346.93,4,1387.72,Fortaleza,Carla,Crédito,Entregue
+392,28/11/2025,Smartphone,02/01/2026,Eletrônicos,3436.56,4,13746.24,Fortaleza,Bruno,Pix,Entregue
+393,04/08/2025,Lâmpada Smart,26/12/2025,Casa Inteligente,42.2,2,84.4,Natal,Fabio,Crédito,Entregue
+394,25/10/2025,Fechadura Digital,25/12/2025,Casa Inteligente,704.35,2,1408.7,Natal,Carla,Boleto,Entregue
+395,28/08/2025,"Monitor 24""",13/01/2026,Eletrônicos,1196.03,3,3588.09,João Pessoa,Bruno,Boleto,Em Trânsito
+396,16/10/2025,Mouse Sem Fio,04/12/2025,Acessórios,78.68,4,314.72,Belo Horizonte,Bruno,Crédito,Entregue
+397,17/10/2025,Fechadura Digital,02/01/2026,Casa Inteligente,864.26,4,3457.04,São Paulo,Carla,Boleto,Cancelado
+398,02/09/2025,Teclado Mecânico,03/12/2025,Acessórios,266.05,5,1330.25,Natal,Ana,Pix,Entregue
+399,13/10/2025,Tablet,19/12/2025,Eletrônicos,1123.38,4,4493.52,Fortaleza,Daniel,Pix,Entregue
+400,14/12/2025,Tablet,11/01/2026,Eletrônicos,1120.01,5,5600.05,Fortaleza,Carla,Boleto,Em Trânsito
+401,24/07/2025,Webcam,23/12/2025,Acessórios,216.11,1,216.11,Belo Horizonte,Elena,Crédito,Cancelado
+402,26/07/2025,Headset,19/12/2025,Acessórios,271.19,1,271.19,São Paulo,Bruno,Pix,Entregue
+403,02/11/2025,Fechadura Digital,23/01/2026,Casa Inteligente,635.29,4,2541.16,Natal,Elena,Boleto,Atrasado
+404,17/09/2025,Headset,05/12/2025,Acessórios,261.25,3,783.75,Rio de Janeiro,Elena,Pix,Atrasado
+405,24/10/2025,Lâmpada Smart,22/01/2026,Casa Inteligente,68.28,5,341.4,Natal,Fabio,Boleto,Entregue
+406,15/12/2025,Lâmpada Smart,17/01/2026,Casa Inteligente,65.29,1,65.29,Fortaleza,Elena,Crédito,Devolvido
+407,19/10/2025,Headset,30/12/2025,Acessórios,132.72,1,132.72,Recife,Ana,Crédito,Atrasado
+408,16/12/2025,Fechadura Digital,17/12/2025,Casa Inteligente,840.09,5,4200.45,Salvador,Fabio,Boleto,Cancelado
+409,27/08/2025,Smartphone,20/12/2025,Eletrônicos,2926.08,4,11704.32,João Pessoa,Ana,Crédito,Entregue
+410,05/01/2026,Webcam,09/01/2026,Acessórios,236.53,5,1182.65,Natal,Ana,Pix,Entregue
+411,04/08/2025,Lâmpada Smart,16/12/2025,Casa Inteligente,56.21,2,112.42,Curitiba,Daniel,Pix,Entregue
+412,23/09/2025,Tablet,03/01/2026,Eletrônicos,849.78,4,3399.12,São Paulo,Bruno,Crédito,Entregue
+413,13/11/2025,Webcam,08/12/2025,Acessórios,161.7,3,485.1,Curitiba,Carla,Pix,Pendente
+414,16/10/2025,Mouse Sem Fio,18/01/2026,Acessórios,139.99,3,419.97,Brasília,Fabio,Pix,Pendente
+415,24/10/2025,Lâmpada Smart,01/01/2026,Casa Inteligente,70.72,1,70.72,São Paulo,Daniel,Pix,Entregue
+416,03/01/2026,Fechadura Digital,18/01/2026,Casa Inteligente,814.46,4,3257.84,João Pessoa,Carla,Pix,Entregue
+417,09/10/2025,Lâmpada Smart,25/12/2025,Casa Inteligente,78.38,5,391.9,Natal,Carla,Boleto,Entregue
+418,04/08/2025,Tablet,04/12/2025,Eletrônicos,1356.75,5,6783.75,Recife,Ana,Crédito,Entregue
+419,29/08/2025,Assistente Virtual,04/01/2026,Casa Inteligente,356.34,2,712.68,Salvador,Carla,Crédito,Entregue
+420,16/09/2025,Headset,05/12/2025,Acessórios,205.51,1,205.51,João Pessoa,Elena,Crédito,Entregue
+421,01/12/2025,Smartphone,04/01/2026,Eletrônicos,2309.67,4,9238.68,Brasília,Ana,Pix,Cancelado
+422,15/12/2025,Tablet,14/01/2026,Eletrônicos,1254.96,3,3764.88,Curitiba,Carla,Pix,Entregue
+423,24/10/2025,Assistente Virtual,21/01/2026,Casa Inteligente,392.08,5,1960.4,São Paulo,Elena,Pix,Entregue
+424,24/07/2025,Fechadura Digital,30/11/2025,Casa Inteligente,806.18,2,1612.36,Salvador,Fabio,Boleto,Em Trânsito
+425,23/11/2025,Notebook Gamer,25/12/2025,Eletrônicos,4102.98,1,4102.98,São Paulo,Daniel,Boleto,Entregue
+426,19/08/2025,Headset,18/01/2026,Acessórios,257.77,3,773.31,Fortaleza,Elena,Crédito,Entregue
+427,03/09/2025,Smartphone,25/12/2025,Eletrônicos,2153.63,4,8614.52,João Pessoa,Fabio,Boleto,Entregue
+428,26/11/2025,Notebook Gamer,17/12/2025,Eletrônicos,4744.12,3,14232.36,Brasília,Carla,Pix,Em Trânsito
+429,05/09/2025,Lâmpada Smart,14/01/2026,Casa Inteligente,74.49,3,223.47,Porto Alegre,Fabio,Pix,Devolvido
+430,18/08/2025,Lâmpada Smart,03/12/2025,Casa Inteligente,76.45,1,76.45,Curitiba,Ana,Boleto,Entregue
+431,29/12/2025,Assistente Virtual,13/01/2026,Casa Inteligente,396.9,4,1587.6,Belo Horizonte,Carla,Pix,Entregue
+432,28/08/2025,"Monitor 24""",14/12/2025,Eletrônicos,1012.64,2,2025.28,Fortaleza,Bruno,Pix,Entregue
+433,20/11/2025,Smartphone,20/01/2026,Eletrônicos,3721.04,5,18605.2,Recife,Ana,Boleto,Entregue
+434,27/07/2025,Tablet,08/12/2025,Eletrônicos,861.65,5,4308.25,Salvador,Daniel,Crédito,Em Trânsito
+435,16/11/2025,Tablet,21/01/2026,Eletrônicos,919.93,4,3679.72,João Pessoa,Daniel,Boleto,Entregue
+436,08/01/2026,Teclado Mecânico,18/01/2026,Acessórios,392.41,3,1177.23,Recife,Ana,Boleto,Entregue
+437,09/07/2025,Lâmpada Smart,19/12/2025,Casa Inteligente,59.08,5,295.4,Recife,Fabio,Pix,Entregue
+438,10/10/2025,Notebook Gamer,31/12/2025,Eletrônicos,3986.8,1,3986.8,Rio de Janeiro,Fabio,Boleto,Entregue
+439,31/08/2025,"Monitor 24""",14/12/2025,Eletrônicos,873.72,5,4368.6,Porto Alegre,Elena,Crédito,Entregue
+440,11/12/2025,Assistente Virtual,15/12/2025,Casa Inteligente,445.36,3,1336.08,João Pessoa,Carla,Pix,Devolvido
+441,20/10/2025,Webcam,06/12/2025,Acessórios,135.23,3,405.69,Salvador,Fabio,Crédito,Entregue
+442,22/06/2025,Assistente Virtual,30/11/2025,Casa Inteligente,281.42,4,1125.68,Fortaleza,Elena,Crédito,Entregue
+443,23/10/2025,Tablet,01/01/2026,Eletrônicos,1129.13,3,3387.39,Natal,Elena,Crédito,Entregue
+444,18/09/2025,Lâmpada Smart,07/12/2025,Casa Inteligente,63.47,1,63.47,João Pessoa,Elena,Crédito,Entregue
+445,01/11/2025,Tablet,19/12/2025,Eletrônicos,1085.06,4,4340.24,Brasília,Bruno,Crédito,Entregue
+446,07/09/2025,Notebook Gamer,18/12/2025,Eletrônicos,5898.25,1,5898.25,Porto Alegre,Bruno,Pix,Entregue
+447,13/10/2025,Lâmpada Smart,15/01/2026,Casa Inteligente,56.59,4,226.36,João Pessoa,Carla,Crédito,Entregue
+448,26/12/2025,Teclado Mecânico,30/12/2025,Acessórios,178.01,3,534.03,Salvador,Carla,Boleto,Cancelado
+449,04/11/2025,Smartphone,30/12/2025,Eletrônicos,2321.11,2,4642.22,Rio de Janeiro,Ana,Pix,Entregue
+450,15/09/2025,Assistente Virtual,10/12/2025,Casa Inteligente,368.05,1,368.05,Recife,Ana,Boleto,Atrasado
+451,09/10/2025,Assistente Virtual,13/12/2025,Casa Inteligente,415.33,3,1245.99,Recife,Bruno,Pix,Em Trânsito
+452,05/01/2026,Headset,13/01/2026,Acessórios,131.15,5,655.75,Curitiba,Carla,Pix,Cancelado
+453,22/07/2025,Tablet,21/01/2026,Eletrônicos,1309.58,2,2619.16,Recife,Ana,Crédito,Entregue
+454,08/09/2025,Assistente Virtual,30/12/2025,Casa Inteligente,484.47,1,484.47,Brasília,Ana,Crédito,Entregue
+455,16/10/2025,Tablet,13/01/2026,Eletrônicos,1388.63,2,2777.26,Natal,Bruno,Crédito,Entregue
+456,25/06/2025,Webcam,07/12/2025,Acessórios,141.94,1,141.94,Brasília,Fabio,Pix,Entregue
+457,14/10/2025,Tablet,09/12/2025,Eletrônicos,843.08,5,4215.4,João Pessoa,Fabio,Pix,Atrasado
+458,14/07/2025,Assistente Virtual,23/12/2025,Casa Inteligente,458.19,3,1374.57,Belo Horizonte,Elena,Crédito,Pendente
+459,13/10/2025,Assistente Virtual,27/12/2025,Casa Inteligente,341.84,4,1367.36,João Pessoa,Carla,Boleto,Entregue
+460,30/08/2025,Webcam,23/01/2026,Acessórios,104.64,3,313.92,Belo Horizonte,Ana,Pix,Cancelado
+461,23/07/2025,Assistente Virtual,13/12/2025,Casa Inteligente,388.38,2,776.76,Salvador,Ana,Crédito,Entregue
+462,11/11/2025,Smartphone,29/01/2026,Eletrônicos,3716.61,3,11149.83,Brasília,Bruno,Boleto,Entregue
+463,18/05/2025,Teclado Mecânico,01/12/2025,Acessórios,302.52,3,907.56,João Pessoa,Elena,Crédito,Entregue
+464,02/07/2025,Tablet,05/12/2025,Eletrônicos,1120.92,3,3362.76,Brasília,Fabio,Crédito,Entregue
+465,16/12/2025,Fechadura Digital,31/12/2025,Casa Inteligente,824.11,2,1648.22,Salvador,Carla,Crédito,Entregue
+466,06/07/2025,Teclado Mecânico,07/01/2026,Acessórios,257.06,4,1028.24,Belo Horizonte,Ana,Crédito,Devolvido
+467,23/07/2025,"Monitor 24""",01/12/2025,Eletrônicos,1065.23,5,5326.15,Porto Alegre,Bruno,Boleto,Entregue
+468,25/09/2025,Headset,26/12/2025,Acessórios,222.77,4,891.08,Porto Alegre,Daniel,Crédito,Entregue
+469,12/11/2025,Lâmpada Smart,15/12/2025,Casa Inteligente,59.71,1,59.71,Natal,Elena,Crédito,Entregue
+470,21/11/2025,"Monitor 24""",05/01/2026,Eletrônicos,841.78,5,4208.9,Belo Horizonte,Fabio,Boleto,Entregue
+471,28/08/2025,"Monitor 24""",18/12/2025,Eletrônicos,918.48,5,4592.4,São Paulo,Bruno,Crédito,Pendente
+472,19/09/2025,Smartphone,22/01/2026,Eletrônicos,2369.91,1,2369.91,São Paulo,Ana,Boleto,Em Trânsito
+473,22/08/2025,Assistente Virtual,03/01/2026,Casa Inteligente,273.73,5,1368.65,Curitiba,Daniel,Pix,Entregue
+474,10/11/2025,Tablet,11/12/2025,Eletrônicos,803.3,2,1606.6,Salvador,Carla,Pix,Pendente
+475,19/07/2025,Assistente Virtual,11/01/2026,Casa Inteligente,317.3,5,1586.5,Recife,Bruno,Pix,Entregue
+476,25/10/2025,Headset,02/01/2026,Acessórios,126.55,5,632.75,Fortaleza,Bruno,Crédito,Entregue
+477,24/07/2025,Mouse Sem Fio,27/01/2026,Acessórios,140.63,1,140.63,Salvador,Bruno,Crédito,Entregue
+478,09/08/2025,Tablet,21/01/2026,Eletrônicos,1418.43,4,5673.72,Rio de Janeiro,Ana,Crédito,Entregue
+479,26/10/2025,Notebook Gamer,09/12/2025,Eletrônicos,5292.98,2,10585.96,Recife,Bruno,Pix,Entregue
+480,11/07/2025,Fechadura Digital,05/01/2026,Casa Inteligente,502.75,3,1508.25,Salvador,Fabio,Crédito,Entregue
+481,01/09/2025,Tablet,16/12/2025,Eletrônicos,806.41,3,2419.23,Porto Alegre,Daniel,Pix,Cancelado
+482,27/09/2025,Fechadura Digital,29/12/2025,Casa Inteligente,511.65,2,1023.3,Fortaleza,Ana,Pix,Entregue
+483,18/09/2025,Notebook Gamer,21/01/2026,Eletrônicos,4776.46,4,19105.84,Recife,Ana,Crédito,Pendente
+484,06/06/2025,Assistente Virtual,30/11/2025,Casa Inteligente,315.85,4,1263.4,São Paulo,Elena,Crédito,Entregue
+485,29/06/2025,Lâmpada Smart,12/01/2026,Casa Inteligente,45.7,4,182.8,Recife,Ana,Crédito,Entregue
+486,27/10/2025,Tablet,08/01/2026,Eletrônicos,1296.94,1,1296.94,Fortaleza,Ana,Pix,Entregue
+487,10/10/2025,Mouse Sem Fio,03/01/2026,Acessórios,69.06,4,276.24,Rio de Janeiro,Elena,Boleto,Entregue
+488,19/11/2025,Fechadura Digital,02/12/2025,Casa Inteligente,696.15,2,1392.3,Natal,Ana,Boleto,Entregue
+489,18/06/2025,Notebook Gamer,20/12/2025,Eletrônicos,5817.85,5,29089.25,Fortaleza,Elena,Crédito,Entregue
+490,16/09/2025,Fechadura Digital,07/12/2025,Casa Inteligente,666.83,1,666.83,Belo Horizonte,Carla,Pix,Em Trânsito
+491,01/01/2026,Lâmpada Smart,29/01/2026,Casa Inteligente,65.92,2,131.84,Salvador,Daniel,Crédito,Pendente
+492,11/07/2025,"Monitor 24""",16/12/2025,Eletrônicos,1063.83,2,2127.66,Brasília,Elena,Crédito,Entregue
+493,07/07/2025,Smartphone,05/12/2025,Eletrônicos,3749.26,3,11247.78,São Paulo,Ana,Crédito,Entregue
+494,12/10/2025,Fechadura Digital,09/01/2026,Casa Inteligente,879.14,2,1758.28,Natal,Fabio,Crédito,Entregue
+495,30/08/2025,Assistente Virtual,03/01/2026,Casa Inteligente,286.49,1,286.49,Curitiba,Ana,Pix,Entregue
+496,09/06/2025,Lâmpada Smart,09/12/2025,Casa Inteligente,48.39,4,193.56,Natal,Elena,Crédito,Cancelado
+497,28/07/2025,Smartphone,07/12/2025,Eletrônicos,2113.05,1,2113.05,Rio de Janeiro,Daniel,Pix,Em Trânsito
+498,12/08/2025,Smartphone,10/01/2026,Eletrônicos,3893.44,3,11680.32,Fortaleza,Ana,Crédito,Entregue
+499,12/06/2025,Headset,14/12/2025,Acessórios,102.74,5,513.7,Fortaleza,Carla,Crédito,Entregue
+500,28/10/2025,Assistente Virtual,07/01/2026,Casa Inteligente,358.2,3,1074.6,São Paulo,Bruno,Crédito,Entregue
+501,21/06/2025,Lâmpada Smart,01/01/2026,Casa Inteligente,59.93,2,119.86,Natal,Ana,Pix,Entregue
+502,07/12/2025,Webcam,27/01/2026,Acessórios,116.8,5,584.0,Brasília,Carla,Crédito,Entregue
+503,16/08/2025,Headset,23/12/2025,Acessórios,196.1,2,392.2,Recife,Daniel,Pix,Entregue
+504,05/08/2025,Mouse Sem Fio,20/01/2026,Acessórios,127.76,3,383.28,João Pessoa,Ana,Boleto,Entregue
+505,26/09/2025,Webcam,01/01/2026,Acessórios,169.98,3,509.94,Recife,Fabio,Boleto,Em Trânsito
+506,27/08/2025,Assistente Virtual,22/01/2026,Casa Inteligente,315.93,3,947.79,São Paulo,Ana,Boleto,Entregue
+507,15/06/2025,Fechadura Digital,25/12/2025,Casa Inteligente,786.35,3,2359.05,Natal,Bruno,Boleto,Cancelado
+508,12/08/2025,"Monitor 24""",05/12/2025,Eletrônicos,1105.61,3,3316.83,Rio de Janeiro,Fabio,Pix,Em Trânsito
+509,14/09/2025,"Monitor 24""",11/12/2025,Eletrônicos,713.55,5,3567.75,Recife,Bruno,Crédito,Entregue
+510,21/09/2025,Webcam,07/12/2025,Acessórios,142.39,3,427.17,Porto Alegre,Fabio,Pix,Entregue
+511,04/08/2025,Teclado Mecânico,09/01/2026,Acessórios,242.3,2,484.6,Fortaleza,Carla,Crédito,Entregue
+512,31/08/2025,Assistente Virtual,28/01/2026,Casa Inteligente,319.94,1,319.94,Belo Horizonte,Bruno,Boleto,Entregue
+513,02/11/2025,Webcam,11/01/2026,Acessórios,104.47,1,104.47,João Pessoa,Carla,Crédito,Entregue
+514,06/07/2025,Mouse Sem Fio,08/01/2026,Acessórios,85.22,5,426.1,Natal,Bruno,Crédito,Entregue
+515,17/08/2025,Smartphone,17/12/2025,Eletrônicos,1978.46,2,3956.92,Salvador,Fabio,Pix,Em Trânsito
+516,15/10/2025,Fechadura Digital,12/12/2025,Casa Inteligente,780.33,4,3121.32,Salvador,Bruno,Pix,Pendente
+517,18/09/2025,Headset,28/01/2026,Acessórios,231.08,1,231.08,João Pessoa,Bruno,Boleto,Entregue
+518,18/08/2025,Smartphone,09/01/2026,Eletrônicos,2255.06,5,11275.3,São Paulo,Elena,Boleto,Entregue
+519,18/10/2025,Headset,22/01/2026,Acessórios,286.38,3,859.14,São Paulo,Bruno,Pix,Entregue
+520,22/08/2025,Teclado Mecânico,05/12/2025,Acessórios,319.61,1,319.61,Porto Alegre,Carla,Crédito,Entregue
+521,20/12/2025,Headset,01/01/2026,Acessórios,218.28,1,218.28,Porto Alegre,Ana,Crédito,Entregue
+522,28/10/2025,Tablet,24/12/2025,Eletrônicos,1259.17,3,3777.51,Porto Alegre,Fabio,Boleto,Em Trânsito
+523,12/06/2025,Tablet,21/12/2025,Eletrônicos,1340.87,1,1340.87,João Pessoa,Carla,Crédito,Cancelado
+524,07/08/2025,Headset,20/01/2026,Acessórios,267.8,4,1071.2,Natal,Elena,Boleto,Entregue
+525,26/06/2025,Assistente Virtual,09/01/2026,Casa Inteligente,268.34,2,536.68,Porto Alegre,Bruno,Pix,Pendente
+526,20/07/2025,Tablet,18/01/2026,Eletrônicos,1358.64,5,6793.2,Fortaleza,Daniel,Crédito,Em Trânsito
+527,17/07/2025,Webcam,28/01/2026,Acessórios,199.08,5,995.4,Natal,Daniel,Boleto,Entregue
+528,07/11/2025,Lâmpada Smart,21/12/2025,Casa Inteligente,42.43,2,84.86,Rio de Janeiro,Ana,Crédito,Pendente
+529,28/08/2025,Headset,10/12/2025,Acessórios,291.54,1,291.54,Salvador,Elena,Crédito,Entregue
+530,22/07/2025,"Monitor 24""",30/12/2025,Eletrônicos,1157.9,4,4631.6,Salvador,Daniel,Pix,Entregue
+531,19/07/2025,Teclado Mecânico,06/01/2026,Acessórios,356.3,1,356.3,Belo Horizonte,Ana,Crédito,Entregue
+532,02/11/2025,Notebook Gamer,05/12/2025,Eletrônicos,3947.55,2,7895.1,Natal,Elena,Pix,Entregue
+533,11/10/2025,Notebook Gamer,29/12/2025,Eletrônicos,5611.59,3,16834.77,São Paulo,Elena,Crédito,Entregue
+534,20/12/2025,Lâmpada Smart,20/12/2025,Casa Inteligente,77.39,2,154.78,Fortaleza,Ana,Crédito,Entregue
+535,06/11/2025,Smartphone,11/12/2025,Eletrônicos,3037.33,5,15186.65,Natal,Bruno,Boleto,Cancelado
+536,21/12/2025,Notebook Gamer,10/01/2026,Eletrônicos,5512.85,5,27564.25,São Paulo,Carla,Crédito,Entregue
+537,25/12/2025,Headset,01/01/2026,Acessórios,142.09,2,284.18,São Paulo,Carla,Boleto,Entregue
+538,30/08/2025,Webcam,07/12/2025,Acessórios,134.52,5,672.6,São Paulo,Carla,Crédito,Em Trânsito
+539,04/07/2025,Webcam,28/12/2025,Acessórios,129.45,1,129.45,Fortaleza,Bruno,Crédito,Entregue
+540,07/08/2025,Teclado Mecânico,19/01/2026,Acessórios,223.95,4,895.8,Belo Horizonte,Daniel,Pix,Devolvido
+541,19/11/2025,Headset,15/12/2025,Acessórios,197.49,4,789.96,Brasília,Fabio,Crédito,Entregue
+542,20/08/2025,Tablet,07/12/2025,Eletrônicos,1000.82,3,3002.46,Recife,Elena,Boleto,Entregue
+543,20/08/2025,"Monitor 24""",13/12/2025,Eletrônicos,625.93,2,1251.86,Rio de Janeiro,Elena,Crédito,Entregue
+544,21/08/2025,Assistente Virtual,14/01/2026,Casa Inteligente,343.87,1,343.87,Salvador,Carla,Crédito,Entregue
+545,07/07/2025,Mouse Sem Fio,01/01/2026,Acessórios,118.46,1,118.46,Brasília,Fabio,Pix,Entregue
+546,04/10/2025,Notebook Gamer,09/01/2026,Eletrônicos,5423.8,3,16271.4,Fortaleza,Elena,Boleto,Entregue
+547,13/06/2025,Webcam,23/12/2025,Acessórios,222.99,5,1114.95,Fortaleza,Carla,Boleto,Em Trânsito
+548,16/07/2025,Notebook Gamer,24/01/2026,Eletrônicos,3729.68,3,11189.04,Rio de Janeiro,Elena,Crédito,Em Trânsito
+549,28/06/2025,Lâmpada Smart,10/12/2025,Casa Inteligente,45.09,5,225.45,Belo Horizonte,Elena,Pix,Pendente
+550,25/12/2025,Fechadura Digital,16/01/2026,Casa Inteligente,748.14,4,2992.56,Porto Alegre,Ana,Boleto,Entregue
+551,18/12/2025,Fechadura Digital,23/12/2025,Casa Inteligente,474.6,5,2373.0,Rio de Janeiro,Ana,Boleto,Pendente
+552,27/08/2025,Lâmpada Smart,09/12/2025,Casa Inteligente,52.01,1,52.01,Brasília,Ana,Crédito,Entregue
+553,14/06/2025,Lâmpada Smart,24/12/2025,Casa Inteligente,70.57,3,211.71,São Paulo,Ana,Boleto,Em Trânsito
+554,17/06/2025,Lâmpada Smart,02/01/2026,Casa Inteligente,44.54,4,178.16,Recife,Fabio,Boleto,Entregue
+555,28/12/2025,Assistente Virtual,03/01/2026,Casa Inteligente,340.22,1,340.22,João Pessoa,Fabio,Boleto,Entregue
+556,27/11/2025,Headset,23/01/2026,Acessórios,290.73,3,872.19,Porto Alegre,Carla,Pix,Atrasado
+557,23/11/2025,Tablet,11/01/2026,Eletrônicos,1340.28,3,4020.84,Brasília,Ana,Crédito,Entregue
+558,24/12/2025,Headset,17/01/2026,Acessórios,142.28,2,284.56,João Pessoa,Ana,Crédito,Entregue
+559,15/05/2025,Assistente Virtual,30/11/2025,Casa Inteligente,453.5,4,1814.0,Salvador,Bruno,Crédito,Em Trânsito
+560,21/11/2025,Lâmpada Smart,21/12/2025,Casa Inteligente,75.13,1,75.13,Natal,Carla,Boleto,Entregue
+561,06/08/2025,Notebook Gamer,03/01/2026,Eletrônicos,3733.21,4,14932.84,Fortaleza,Bruno,Boleto,Entregue
+562,06/10/2025,Notebook Gamer,16/01/2026,Eletrônicos,3536.23,2,7072.46,Brasília,Ana,Pix,Entregue
+563,12/06/2025,Assistente Virtual,28/12/2025,Casa Inteligente,362.25,2,724.5,Porto Alegre,Ana,Crédito,Pendente
+564,30/08/2025,Notebook Gamer,30/11/2025,Eletrônicos,5036.51,2,10073.02,João Pessoa,Daniel,Boleto,Entregue
+565,18/11/2025,Assistente Virtual,25/01/2026,Casa Inteligente,277.78,3,833.34,Porto Alegre,Fabio,Crédito,Entregue
+566,01/12/2025,Fechadura Digital,31/12/2025,Casa Inteligente,489.37,1,489.37,Recife,Elena,Boleto,Entregue
+567,24/10/2025,Assistente Virtual,21/01/2026,Casa Inteligente,382.01,5,1910.05,João Pessoa,Bruno,Crédito,Entregue
+568,30/12/2025,Webcam,31/12/2025,Acessórios,112.65,2,225.3,João Pessoa,Bruno,Boleto,Em Trânsito
+569,28/07/2025,Fechadura Digital,25/12/2025,Casa Inteligente,592.77,4,2371.08,Belo Horizonte,Fabio,Boleto,Entregue
+570,23/06/2025,Tablet,05/12/2025,Eletrônicos,1324.54,4,5298.16,Brasília,Carla,Crédito,Devolvido
+571,10/09/2025,Tablet,22/01/2026,Eletrônicos,1185.78,1,1185.78,Recife,Carla,Boleto,Entregue
+572,13/11/2025,Smartphone,26/01/2026,Eletrônicos,3543.35,2,7086.7,Curitiba,Daniel,Boleto,Entregue
+573,04/12/2025,Smartphone,06/12/2025,Eletrônicos,3861.04,3,11583.12,Brasília,Ana,Pix,Entregue
+574,17/10/2025,Assistente Virtual,07/12/2025,Casa Inteligente,325.73,4,1302.92,Belo Horizonte,Fabio,Pix,Entregue
+575,15/08/2025,Notebook Gamer,22/01/2026,Eletrônicos,4800.51,2,9601.02,Rio de Janeiro,Carla,Boleto,Entregue
+576,17/10/2025,Smartphone,08/01/2026,Eletrônicos,2996.79,2,5993.58,Recife,Ana,Pix,Entregue
+577,19/08/2025,Lâmpada Smart,29/01/2026,Casa Inteligente,42.47,3,127.41,João Pessoa,Ana,Crédito,Atrasado
+578,30/06/2025,Mouse Sem Fio,08/12/2025,Acessórios,131.61,5,658.05,João Pessoa,Carla,Pix,Entregue
+579,26/11/2025,Notebook Gamer,02/12/2025,Eletrônicos,3839.03,1,3839.03,Brasília,Bruno,Crédito,Atrasado
+580,25/07/2025,Assistente Virtual,16/12/2025,Casa Inteligente,314.64,1,314.64,João Pessoa,Ana,Pix,Em Trânsito
+581,10/12/2025,"Monitor 24""",18/01/2026,Eletrônicos,1123.32,3,3369.96,São Paulo,Daniel,Boleto,Entregue
+582,24/12/2025,Webcam,31/12/2025,Acessórios,162.81,5,814.05,Curitiba,Ana,Pix,Pendente
+583,25/10/2025,Headset,21/12/2025,Acessórios,269.28,2,538.56,Porto Alegre,Ana,Boleto,Entregue
+584,14/12/2025,Headset,16/01/2026,Acessórios,226.37,2,452.74,Fortaleza,Fabio,Pix,Entregue
+585,28/11/2025,Notebook Gamer,31/12/2025,Eletrônicos,5456.5,4,21826.0,João Pessoa,Bruno,Crédito,Entregue
+586,17/08/2025,Notebook Gamer,20/12/2025,Eletrônicos,4150.13,4,16600.52,Porto Alegre,Ana,Crédito,Entregue
+587,21/10/2025,Smartphone,01/12/2025,Eletrônicos,3607.2,1,3607.2,Porto Alegre,Fabio,Crédito,Entregue
+588,01/07/2025,Tablet,17/01/2026,Eletrônicos,1077.96,5,5389.8,Brasília,Bruno,Boleto,Entregue
+589,15/07/2025,Smartphone,30/11/2025,Eletrônicos,2627.09,3,7881.27,Brasília,Elena,Pix,Entregue
+590,23/06/2025,Fechadura Digital,24/12/2025,Casa Inteligente,427.29,5,2136.45,São Paulo,Ana,Boleto,Em Trânsito
+591,22/07/2025,Fechadura Digital,11/01/2026,Casa Inteligente,733.63,4,2934.52,Natal,Carla,Boleto,Entregue
+592,03/10/2025,"Monitor 24""",28/12/2025,Eletrônicos,1007.39,4,4029.56,Brasília,Bruno,Crédito,Entregue
+593,18/06/2025,Webcam,13/12/2025,Acessórios,168.38,3,505.14,Curitiba,Elena,Crédito,Entregue
+594,19/12/2025,Smartphone,21/01/2026,Eletrônicos,2540.64,1,2540.64,Fortaleza,Bruno,Crédito,Entregue
+595,23/11/2025,Webcam,15/12/2025,Acessórios,140.35,3,421.05,Porto Alegre,Ana,Crédito,Entregue
+596,09/09/2025,"Monitor 24""",23/01/2026,Eletrônicos,983.51,4,3934.04,Belo Horizonte,Daniel,Pix,Entregue
+597,14/08/2025,Tablet,20/01/2026,Eletrônicos,1002.68,1,1002.68,Salvador,Ana,Crédito,Entregue
+598,10/07/2025,Assistente Virtual,21/01/2026,Casa Inteligente,318.58,1,318.58,Recife,Bruno,Crédito,Entregue
+599,20/09/2025,Headset,21/01/2026,Acessórios,148.24,5,741.2,Salvador,Daniel,Pix,Entregue
+600,22/11/2025,Headset,17/12/2025,Acessórios,176.47,4,705.88,Recife,Ana,Boleto,Entregue
+601,20/09/2025,"Monitor 24""",17/12/2025,Eletrônicos,805.06,3,2415.18,Salvador,Elena,Pix,Entregue
+602,25/06/2025,Teclado Mecânico,09/12/2025,Acessórios,174.39,4,697.56,Curitiba,Daniel,Boleto,Devolvido
+603,19/07/2025,Assistente Virtual,12/12/2025,Casa Inteligente,382.73,2,765.46,Rio de Janeiro,Daniel,Boleto,Entregue
+604,23/08/2025,Teclado Mecânico,09/01/2026,Acessórios,223.78,4,895.12,Rio de Janeiro,Carla,Crédito,Cancelado
+605,19/10/2025,Lâmpada Smart,02/12/2025,Casa Inteligente,55.3,5,276.5,Natal,Ana,Boleto,Em Trânsito
+606,07/06/2025,Assistente Virtual,04/12/2025,Casa Inteligente,427.53,2,855.06,Recife,Bruno,Pix,Em Trânsito
+607,20/07/2025,Assistente Virtual,11/01/2026,Casa Inteligente,492.22,2,984.44,Fortaleza,Bruno,Boleto,Entregue
+608,30/06/2025,Notebook Gamer,03/01/2026,Eletrônicos,5815.84,1,5815.84,Fortaleza,Carla,Pix,Entregue
+609,01/09/2025,Assistente Virtual,29/12/2025,Casa Inteligente,359.09,4,1436.36,Salvador,Ana,Crédito,Entregue
+610,13/10/2025,Webcam,24/01/2026,Acessórios,125.03,1,125.03,Salvador,Bruno,Pix,Entregue
+611,11/10/2025,Notebook Gamer,04/01/2026,Eletrônicos,5192.93,2,10385.86,Curitiba,Bruno,Boleto,Entregue
+612,05/11/2025,Webcam,14/12/2025,Acessórios,246.17,2,492.34,Salvador,Daniel,Crédito,Entregue
+613,27/06/2025,"Monitor 24""",09/01/2026,Eletrônicos,881.55,4,3526.2,Porto Alegre,Carla,Boleto,Atrasado
+614,23/08/2025,Fechadura Digital,30/12/2025,Casa Inteligente,568.48,4,2273.92,Curitiba,Carla,Crédito,Entregue
+615,21/06/2025,Notebook Gamer,02/12/2025,Eletrônicos,4997.6,1,4997.6,João Pessoa,Elena,Boleto,Entregue
+616,04/09/2025,Lâmpada Smart,05/12/2025,Casa Inteligente,65.73,5,328.65,Porto Alegre,Bruno,Crédito,Entregue
+617,23/06/2025,Teclado Mecânico,27/12/2025,Acessórios,317.34,3,952.02,Salvador,Elena,Pix,Entregue
+618,26/11/2025,Fechadura Digital,12/12/2025,Casa Inteligente,539.1,5,2695.5,Rio de Janeiro,Bruno,Pix,Atrasado
+619,10/09/2025,Assistente Virtual,08/12/2025,Casa Inteligente,420.33,4,1681.32,Natal,Carla,Boleto,Entregue
+620,13/10/2025,Assistente Virtual,06/01/2026,Casa Inteligente,343.15,4,1372.6,Salvador,Fabio,Crédito,Entregue
+621,01/12/2025,"Monitor 24""",14/01/2026,Eletrônicos,923.73,3,2771.19,Fortaleza,Ana,Boleto,Entregue
+622,26/11/2025,Lâmpada Smart,10/01/2026,Casa Inteligente,75.79,4,303.16,Fortaleza,Daniel,Crédito,Entregue
+623,15/07/2025,Fechadura Digital,09/01/2026,Casa Inteligente,615.44,4,2461.76,João Pessoa,Fabio,Pix,Cancelado
+624,31/12/2025,Notebook Gamer,12/01/2026,Eletrônicos,5305.33,2,10610.66,Recife,Elena,Pix,Atrasado
+625,19/06/2025,Smartphone,03/01/2026,Eletrônicos,2772.11,5,13860.55,Belo Horizonte,Ana,Crédito,Entregue
+626,15/08/2025,Fechadura Digital,20/12/2025,Casa Inteligente,572.3,3,1716.9,Brasília,Elena,Crédito,Devolvido
+627,22/08/2025,Fechadura Digital,30/12/2025,Casa Inteligente,833.07,2,1666.14,Salvador,Fabio,Pix,Entregue
+628,28/07/2025,Teclado Mecânico,03/12/2025,Acessórios,212.6,4,850.4,Natal,Carla,Crédito,Entregue
+629,14/09/2025,Fechadura Digital,20/01/2026,Casa Inteligente,605.24,5,3026.2,Natal,Fabio,Boleto,Entregue
+630,09/01/2026,Mouse Sem Fio,21/01/2026,Acessórios,79.24,5,396.2,Porto Alegre,Bruno,Pix,Atrasado
+631,07/09/2025,Webcam,01/12/2025,Acessórios,177.45,3,532.35,Curitiba,Carla,Pix,Entregue
+632,23/09/2025,Fechadura Digital,09/01/2026,Casa Inteligente,821.94,3,2465.82,Rio de Janeiro,Elena,Boleto,Entregue
+633,25/10/2025,Mouse Sem Fio,17/12/2025,Acessórios,93.66,3,280.98,Brasília,Fabio,Boleto,Atrasado
+634,10/01/2026,Assistente Virtual,26/01/2026,Casa Inteligente,399.14,2,798.28,Belo Horizonte,Carla,Pix,Entregue
+635,11/07/2025,Fechadura Digital,22/01/2026,Casa Inteligente,546.38,2,1092.76,Salvador,Bruno,Crédito,Entregue
+636,13/11/2025,Lâmpada Smart,05/12/2025,Casa Inteligente,42.23,3,126.69,São Paulo,Elena,Boleto,Em Trânsito
+637,29/11/2025,Notebook Gamer,04/12/2025,Eletrônicos,4676.56,1,4676.56,Recife,Ana,Pix,Entregue
+638,03/08/2025,Notebook Gamer,22/01/2026,Eletrônicos,3612.4,3,10837.2,Belo Horizonte,Fabio,Pix,Entregue
+639,26/07/2025,Fechadura Digital,30/11/2025,Casa Inteligente,582.81,5,2914.05,Rio de Janeiro,Ana,Crédito,Entregue
+640,21/10/2025,Fechadura Digital,01/12/2025,Casa Inteligente,454.32,4,1817.28,Curitiba,Fabio,Crédito,Entregue
+641,29/06/2025,Lâmpada Smart,07/01/2026,Casa Inteligente,41.73,4,166.92,Porto Alegre,Ana,Boleto,Entregue
+642,24/09/2025,Mouse Sem Fio,17/01/2026,Acessórios,141.05,1,141.05,Salvador,Fabio,Crédito,Entregue
+643,20/10/2025,Mouse Sem Fio,19/01/2026,Acessórios,123.32,4,493.28,Rio de Janeiro,Carla,Pix,Entregue
+644,13/11/2025,Assistente Virtual,13/01/2026,Casa Inteligente,287.06,4,1148.24,Rio de Janeiro,Carla,Boleto,Entregue
+645,17/12/2025,Assistente Virtual,16/01/2026,Casa Inteligente,286.02,1,286.02,Fortaleza,Daniel,Crédito,Entregue
+646,09/07/2025,Tablet,11/12/2025,Eletrônicos,1438.07,4,5752.28,Fortaleza,Bruno,Pix,Entregue
+647,07/11/2025,"Monitor 24""",13/12/2025,Eletrônicos,914.28,1,914.28,Salvador,Elena,Boleto,Entregue
+648,29/06/2025,Mouse Sem Fio,30/12/2025,Acessórios,139.31,3,417.93,Natal,Ana,Crédito,Entregue
+649,06/06/2025,Mouse Sem Fio,13/12/2025,Acessórios,67.15,4,268.6,Belo Horizonte,Daniel,Boleto,Entregue
+650,31/07/2025,Lâmpada Smart,03/01/2026,Casa Inteligente,42.66,2,85.32,Salvador,Elena,Crédito,Entregue
+651,01/07/2025,Teclado Mecânico,04/01/2026,Acessórios,235.95,2,471.9,Belo Horizonte,Fabio,Pix,Entregue
+652,14/12/2025,Assistente Virtual,30/12/2025,Casa Inteligente,296.45,4,1185.8,Brasília,Fabio,Pix,Entregue
+653,09/09/2025,Headset,16/12/2025,Acessórios,118.36,1,118.36,Recife,Ana,Boleto,Em Trânsito
+654,10/11/2025,Notebook Gamer,13/12/2025,Eletrônicos,4300.63,3,12901.89,Belo Horizonte,Bruno,Boleto,Entregue
+655,20/11/2025,"Monitor 24""",30/12/2025,Eletrônicos,830.35,1,830.35,Salvador,Ana,Boleto,Entregue
+656,30/12/2025,"Monitor 24""",12/01/2026,Eletrônicos,688.53,5,3442.65,Fortaleza,Carla,Pix,Pendente
+657,11/09/2025,Notebook Gamer,13/01/2026,Eletrônicos,3817.54,4,15270.16,Natal,Ana,Boleto,Entregue
+658,27/08/2025,Tablet,30/12/2025,Eletrônicos,1462.5,3,4387.5,Recife,Elena,Pix,Entregue
+659,07/09/2025,Fechadura Digital,11/12/2025,Casa Inteligente,824.94,4,3299.76,São Paulo,Ana,Boleto,Entregue
+660,09/08/2025,Tablet,03/01/2026,Eletrônicos,827.75,4,3311.0,Fortaleza,Elena,Pix,Entregue
+661,29/10/2025,Webcam,21/12/2025,Acessórios,226.13,4,904.52,Rio de Janeiro,Daniel,Boleto,Pendente
+662,27/01/2026,Fechadura Digital,28/01/2026,Casa Inteligente,501.51,5,2507.55,Fortaleza,Carla,Crédito,Em Trânsito
+663,02/11/2025,Headset,02/12/2025,Acessórios,227.92,3,683.76,Brasília,Carla,Boleto,Em Trânsito
+664,23/08/2025,Headset,20/01/2026,Acessórios,100.34,2,200.68,Recife,Carla,Pix,Em Trânsito
+665,24/07/2025,Headset,02/12/2025,Acessórios,293.5,4,1174.0,Natal,Daniel,Pix,Entregue
+666,12/06/2025,Smartphone,28/12/2025,Eletrônicos,2361.14,4,9444.56,Brasília,Elena,Pix,Entregue
+667,16/01/2026,Mouse Sem Fio,23/01/2026,Acessórios,124.22,4,496.88,Recife,Fabio,Crédito,Em Trânsito
+668,20/11/2025,Lâmpada Smart,07/12/2025,Casa Inteligente,72.13,2,144.26,João Pessoa,Daniel,Crédito,Entregue
+669,23/06/2025,Notebook Gamer,09/12/2025,Eletrônicos,4378.9,4,17515.6,Brasília,Daniel,Boleto,Entregue
+670,28/10/2025,Assistente Virtual,11/01/2026,Casa Inteligente,463.33,4,1853.32,Natal,Ana,Pix,Entregue
+671,13/12/2025,Headset,18/12/2025,Acessórios,274.26,4,1097.04,João Pessoa,Daniel,Pix,Em Trânsito
+672,28/08/2025,"Monitor 24""",07/01/2026,Eletrônicos,1098.41,1,1098.41,Porto Alegre,Elena,Crédito,Entregue
+673,01/12/2025,Mouse Sem Fio,28/01/2026,Acessórios,132.28,3,396.84,Salvador,Carla,Boleto,Entregue
+674,12/09/2025,Teclado Mecânico,05/12/2025,Acessórios,335.18,4,1340.72,Salvador,Ana,Crédito,Entregue
+675,22/07/2025,Tablet,13/01/2026,Eletrônicos,1032.46,1,1032.46,Curitiba,Carla,Pix,Cancelado
+676,18/06/2025,Headset,27/12/2025,Acessórios,238.52,5,1192.6,Brasília,Daniel,Boleto,Entregue
+677,16/12/2025,Assistente Virtual,12/01/2026,Casa Inteligente,318.24,2,636.48,Fortaleza,Fabio,Crédito,Entregue
+678,22/08/2025,Teclado Mecânico,30/11/2025,Acessórios,161.83,3,485.49,Curitiba,Carla,Crédito,Entregue
+679,25/08/2025,Lâmpada Smart,06/01/2026,Casa Inteligente,73.97,3,221.91,São Paulo,Ana,Boleto,Entregue
+680,21/11/2025,Smartphone,25/12/2025,Eletrônicos,2532.09,4,10128.36,Salvador,Ana,Crédito,Entregue
+681,29/05/2025,Assistente Virtual,30/11/2025,Casa Inteligente,420.83,3,1262.49,Salvador,Ana,Boleto,Entregue
+682,01/01/2026,Fechadura Digital,28/01/2026,Casa Inteligente,539.58,2,1079.16,João Pessoa,Bruno,Crédito,Atrasado
+683,14/10/2025,Webcam,03/12/2025,Acessórios,192.56,5,962.8,Natal,Daniel,Crédito,Atrasado
+684,10/10/2025,Smartphone,01/01/2026,Eletrônicos,2758.44,5,13792.2,Curitiba,Ana,Pix,Entregue
+685,06/06/2025,Lâmpada Smart,19/12/2025,Casa Inteligente,52.46,5,262.3,Salvador,Daniel,Boleto,Entregue
+686,14/10/2025,Assistente Virtual,12/12/2025,Casa Inteligente,418.72,4,1674.88,Salvador,Bruno,Crédito,Entregue
+687,09/01/2026,Webcam,26/01/2026,Acessórios,156.93,5,784.65,Salvador,Fabio,Crédito,Entregue
+688,11/01/2026,Webcam,11/01/2026,Acessórios,235.89,2,471.78,Belo Horizonte,Ana,Boleto,Pendente
+689,17/08/2025,Tablet,23/12/2025,Eletrônicos,1481.1,5,7405.5,Recife,Ana,Boleto,Cancelado
+690,21/09/2025,Fechadura Digital,11/12/2025,Casa Inteligente,802.08,4,3208.32,Brasília,Elena,Pix,Entregue
+691,17/08/2025,Notebook Gamer,05/12/2025,Eletrônicos,3602.54,3,10807.62,Rio de Janeiro,Ana,Boleto,Em Trânsito
+692,13/08/2025,Smartphone,04/12/2025,Eletrônicos,3555.09,2,7110.18,Salvador,Ana,Boleto,Entregue
+693,22/11/2025,Fechadura Digital,09/12/2025,Casa Inteligente,865.51,5,4327.55,Rio de Janeiro,Elena,Crédito,Cancelado
+694,07/06/2025,Mouse Sem Fio,16/12/2025,Acessórios,132.05,3,396.15,Salvador,Bruno,Pix,Pendente
+695,16/10/2025,Notebook Gamer,05/12/2025,Eletrônicos,5074.18,2,10148.36,Fortaleza,Carla,Boleto,Entregue
+696,28/11/2025,Assistente Virtual,11/01/2026,Casa Inteligente,424.4,1,424.4,Recife,Carla,Pix,Entregue
+697,28/08/2025,Teclado Mecânico,10/12/2025,Acessórios,333.96,4,1335.84,Recife,Bruno,Pix,Entregue
+698,27/12/2025,Fechadura Digital,30/12/2025,Casa Inteligente,528.15,3,1584.45,Belo Horizonte,Elena,Boleto,Pendente
+699,31/08/2025,Teclado Mecânico,21/01/2026,Acessórios,238.44,3,715.32,São Paulo,Ana,Pix,Em Trânsito
+700,06/09/2025,Fechadura Digital,12/12/2025,Casa Inteligente,517.26,3,1551.78,Belo Horizonte,Elena,Pix,Em Trânsito
+701,25/08/2025,Mouse Sem Fio,22/01/2026,Acessórios,64.89,1,64.89,Brasília,Bruno,Crédito,Entregue
+702,07/08/2025,Headset,28/01/2026,Acessórios,269.51,1,269.51,Belo Horizonte,Elena,Crédito,Entregue
+703,11/08/2025,Mouse Sem Fio,27/12/2025,Acessórios,112.55,5,562.75,Salvador,Daniel,Crédito,Devolvido
+704,03/11/2025,Assistente Virtual,14/12/2025,Casa Inteligente,250.28,4,1001.12,Belo Horizonte,Daniel,Boleto,Entregue
+705,29/08/2025,Assistente Virtual,20/12/2025,Casa Inteligente,350.71,5,1753.55,Fortaleza,Carla,Crédito,Entregue
+706,25/09/2025,Assistente Virtual,21/12/2025,Casa Inteligente,400.85,1,400.85,Belo Horizonte,Elena,Crédito,Entregue
+707,06/09/2025,Teclado Mecânico,15/12/2025,Acessórios,158.52,3,475.56,Recife,Bruno,Boleto,Entregue
+708,04/01/2026,Webcam,06/01/2026,Acessórios,239.12,1,239.12,Curitiba,Bruno,Crédito,Entregue
+709,29/11/2025,Mouse Sem Fio,06/01/2026,Acessórios,127.3,2,254.6,Rio de Janeiro,Bruno,Crédito,Em Trânsito
+710,24/06/2025,Smartphone,14/12/2025,Eletrônicos,3883.24,1,3883.24,Belo Horizonte,Bruno,Crédito,Entregue
+711,02/10/2025,Teclado Mecânico,29/01/2026,Acessórios,226.62,3,679.86,Recife,Fabio,Pix,Entregue
+712,02/06/2025,Assistente Virtual,15/12/2025,Casa Inteligente,439.13,1,439.13,Natal,Daniel,Crédito,Entregue
+713,04/11/2025,Tablet,15/01/2026,Eletrônicos,1340.19,1,1340.19,Recife,Elena,Pix,Em Trânsito
+714,13/07/2025,Teclado Mecânico,16/12/2025,Acessórios,310.01,4,1240.04,Curitiba,Carla,Boleto,Entregue
+715,31/08/2025,Webcam,19/01/2026,Acessórios,154.74,3,464.22,Natal,Fabio,Crédito,Entregue
+716,20/08/2025,Lâmpada Smart,23/12/2025,Casa Inteligente,52.72,5,263.6,Brasília,Fabio,Boleto,Atrasado
+717,29/07/2025,Notebook Gamer,02/12/2025,Eletrônicos,5188.07,3,15564.21,Fortaleza,Daniel,Boleto,Entregue
+718,09/11/2025,Notebook Gamer,06/12/2025,Eletrônicos,5425.37,3,16276.11,Fortaleza,Fabio,Pix,Em Trânsito
+719,01/09/2025,"Monitor 24""",30/12/2025,Eletrônicos,769.25,1,769.25,Recife,Carla,Crédito,Entregue
+720,13/10/2025,Teclado Mecânico,06/12/2025,Acessórios,239.92,5,1199.6,Natal,Daniel,Crédito,Pendente
+721,26/09/2025,Mouse Sem Fio,13/01/2026,Acessórios,117.58,2,235.16,João Pessoa,Daniel,Crédito,Entregue
+722,25/06/2025,Notebook Gamer,04/01/2026,Eletrônicos,4342.1,1,4342.1,Recife,Ana,Boleto,Entregue
+723,21/08/2025,Webcam,01/01/2026,Acessórios,204.34,3,613.02,São Paulo,Ana,Crédito,Entregue
+724,30/08/2025,Teclado Mecânico,02/12/2025,Acessórios,188.25,2,376.5,Porto Alegre,Elena,Pix,Atrasado
+725,22/12/2025,Headset,03/01/2026,Acessórios,111.25,1,111.25,São Paulo,Carla,Boleto,Entregue
+726,27/07/2025,Lâmpada Smart,07/12/2025,Casa Inteligente,72.14,4,288.56,Fortaleza,Fabio,Pix,Entregue
+727,03/11/2025,Mouse Sem Fio,12/01/2026,Acessórios,125.68,2,251.36,Recife,Elena,Pix,Atrasado
+728,12/09/2025,Lâmpada Smart,02/12/2025,Casa Inteligente,79.75,1,79.75,João Pessoa,Ana,Pix,Em Trânsito
+729,29/09/2025,Headset,15/12/2025,Acessórios,181.57,3,544.71,Natal,Carla,Boleto,Entregue
+730,25/09/2025,Tablet,10/01/2026,Eletrônicos,1175.07,4,4700.28,Salvador,Ana,Pix,Entregue
+731,30/07/2025,Fechadura Digital,03/01/2026,Casa Inteligente,697.04,5,3485.2,Recife,Carla,Boleto,Entregue
+732,03/11/2025,"Monitor 24""",23/12/2025,Eletrônicos,643.39,2,1286.78,Belo Horizonte,Bruno,Crédito,Em Trânsito
+733,10/10/2025,Fechadura Digital,07/12/2025,Casa Inteligente,416.89,2,833.78,Belo Horizonte,Elena,Boleto,Entregue
+734,15/10/2025,Webcam,07/01/2026,Acessórios,232.09,5,1160.45,Rio de Janeiro,Bruno,Pix,Entregue
+735,01/10/2025,"Monitor 24""",04/12/2025,Eletrônicos,995.05,4,3980.2,Belo Horizonte,Ana,Boleto,Em Trânsito
+736,28/09/2025,Mouse Sem Fio,18/01/2026,Acessórios,63.09,4,252.36,Fortaleza,Fabio,Crédito,Entregue
+737,10/09/2025,"Monitor 24""",05/12/2025,Eletrônicos,1015.71,2,2031.42,São Paulo,Daniel,Crédito,Atrasado
+738,20/08/2025,Headset,20/12/2025,Acessórios,137.13,4,548.52,Fortaleza,Daniel,Pix,Entregue
+739,02/09/2025,Teclado Mecânico,24/12/2025,Acessórios,260.68,4,1042.72,Natal,Elena,Crédito,Entregue
+740,17/08/2025,"Monitor 24""",03/12/2025,Eletrônicos,1080.29,3,3240.87,Recife,Elena,Pix,Entregue
+741,12/11/2025,Lâmpada Smart,04/12/2025,Casa Inteligente,74.73,3,224.19,Natal,Fabio,Boleto,Entregue
+742,21/07/2025,Assistente Virtual,25/01/2026,Casa Inteligente,343.57,2,687.14,São Paulo,Daniel,Pix,Em Trânsito
+743,28/08/2025,Mouse Sem Fio,13/12/2025,Acessórios,84.46,4,337.84,Porto Alegre,Daniel,Boleto,Entregue
+744,07/11/2025,Mouse Sem Fio,28/01/2026,Acessórios,120.77,2,241.54,Natal,Ana,Pix,Entregue
+745,13/08/2025,"Monitor 24""",18/12/2025,Eletrônicos,600.88,4,2403.52,Porto Alegre,Carla,Boleto,Entregue
+746,06/10/2025,Teclado Mecânico,02/12/2025,Acessórios,258.49,4,1033.96,Recife,Bruno,Crédito,Entregue
+747,13/09/2025,Headset,15/12/2025,Acessórios,219.83,1,219.83,São Paulo,Ana,Pix,Entregue
+748,25/10/2025,Webcam,12/12/2025,Acessórios,223.18,4,892.72,Recife,Elena,Boleto,Entregue
+749,25/11/2025,Lâmpada Smart,21/01/2026,Casa Inteligente,64.58,1,64.58,Salvador,Elena,Boleto,Entregue
+750,20/07/2025,Notebook Gamer,05/01/2026,Eletrônicos,3724.89,5,18624.45,Porto Alegre,Ana,Crédito,Entregue
+751,26/10/2025,Mouse Sem Fio,01/01/2026,Acessórios,77.78,4,311.12,São Paulo,Daniel,Boleto,Devolvido
+752,07/12/2025,Smartphone,29/01/2026,Eletrônicos,2626.71,4,10506.84,Rio de Janeiro,Fabio,Pix,Entregue
+753,25/07/2025,Assistente Virtual,31/12/2025,Casa Inteligente,412.27,3,1236.81,Belo Horizonte,Carla,Crédito,Entregue
+754,19/08/2025,Assistente Virtual,04/12/2025,Casa Inteligente,279.11,4,1116.44,Brasília,Fabio,Crédito,Em Trânsito
+755,15/11/2025,Mouse Sem Fio,23/01/2026,Acessórios,53.81,3,161.43,Natal,Daniel,Pix,Entregue
+756,01/09/2025,Tablet,26/12/2025,Eletrônicos,1481.21,2,2962.42,Curitiba,Bruno,Boleto,Entregue
+757,21/06/2025,Notebook Gamer,04/12/2025,Eletrônicos,4741.05,2,9482.1,Porto Alegre,Fabio,Boleto,Entregue
+758,13/10/2025,Headset,11/01/2026,Acessórios,277.61,2,555.22,Salvador,Bruno,Pix,Pendente
+759,01/12/2025,Notebook Gamer,22/12/2025,Eletrônicos,5629.54,3,16888.62,Recife,Ana,Boleto,Entregue
+760,16/11/2025,"Monitor 24""",09/12/2025,Eletrônicos,893.7,5,4468.5,São Paulo,Carla,Crédito,Devolvido
+761,07/06/2025,Fechadura Digital,06/12/2025,Casa Inteligente,445.48,3,1336.44,Brasília,Elena,Boleto,Devolvido
+762,20/09/2025,Mouse Sem Fio,24/01/2026,Acessórios,72.26,2,144.52,Curitiba,Carla,Boleto,Atrasado
+763,03/11/2025,Smartphone,19/12/2025,Eletrônicos,2062.53,5,10312.65,Salvador,Fabio,Pix,Cancelado
+764,16/08/2025,Notebook Gamer,27/01/2026,Eletrônicos,3786.64,1,3786.64,Recife,Carla,Boleto,Entregue
+765,28/11/2025,Notebook Gamer,09/12/2025,Eletrônicos,5037.62,1,5037.62,Brasília,Ana,Boleto,Entregue
+766,11/10/2025,Assistente Virtual,07/01/2026,Casa Inteligente,464.21,4,1856.84,Porto Alegre,Bruno,Boleto,Entregue
+767,16/12/2025,Assistente Virtual,28/01/2026,Casa Inteligente,376.19,3,1128.57,João Pessoa,Elena,Boleto,Em Trânsito
+768,06/10/2025,Webcam,02/01/2026,Acessórios,104.85,5,524.25,Salvador,Daniel,Crédito,Em Trânsito
+769,20/07/2025,Teclado Mecânico,20/12/2025,Acessórios,229.99,1,229.99,Rio de Janeiro,Daniel,Pix,Entregue
+770,06/09/2025,Tablet,21/12/2025,Eletrônicos,1429.38,3,4288.14,Natal,Ana,Pix,Atrasado
+771,17/07/2025,Notebook Gamer,20/12/2025,Eletrônicos,5971.68,2,11943.36,São Paulo,Bruno,Crédito,Entregue
+772,30/12/2025,Smartphone,09/01/2026,Eletrônicos,3001.1,4,12004.4,São Paulo,Bruno,Crédito,Entregue
+773,01/09/2025,Smartphone,31/12/2025,Eletrônicos,2164.81,1,2164.81,Recife,Fabio,Boleto,Entregue
+774,18/10/2025,Lâmpada Smart,17/12/2025,Casa Inteligente,59.05,5,295.25,Salvador,Daniel,Pix,Entregue
+775,15/08/2025,Assistente Virtual,26/01/2026,Casa Inteligente,364.42,2,728.84,Rio de Janeiro,Elena,Crédito,Entregue
+776,19/08/2025,Notebook Gamer,28/01/2026,Eletrônicos,5252.77,1,5252.77,São Paulo,Bruno,Pix,Entregue
+777,30/12/2025,Mouse Sem Fio,23/01/2026,Acessórios,76.77,2,153.54,São Paulo,Fabio,Boleto,Entregue
+778,02/11/2025,Headset,27/01/2026,Acessórios,196.27,3,588.81,Belo Horizonte,Bruno,Pix,Em Trânsito
+779,07/11/2025,Notebook Gamer,03/12/2025,Eletrônicos,5362.69,4,21450.76,João Pessoa,Elena,Crédito,Cancelado
+780,15/10/2025,Headset,10/12/2025,Acessórios,196.3,3,588.9,Brasília,Carla,Boleto,Entregue
+781,07/06/2025,Lâmpada Smart,22/12/2025,Casa Inteligente,78.16,3,234.48,Fortaleza,Bruno,Pix,Entregue
+782,20/06/2025,Assistente Virtual,30/12/2025,Casa Inteligente,342.26,2,684.52,Salvador,Bruno,Boleto,Em Trânsito
+783,14/08/2025,Notebook Gamer,12/01/2026,Eletrônicos,3824.81,3,11474.43,Recife,Carla,Pix,Em Trânsito
+784,26/10/2025,"Monitor 24""",24/01/2026,Eletrônicos,1157.2,4,4628.8,Brasília,Elena,Pix,Entregue
+785,03/07/2025,Smartphone,18/12/2025,Eletrônicos,2297.22,3,6891.66,São Paulo,Carla,Pix,Entregue
+786,26/10/2025,Assistente Virtual,04/12/2025,Casa Inteligente,351.5,1,351.5,Brasília,Ana,Boleto,Pendente
+787,03/08/2025,Tablet,02/01/2026,Eletrônicos,1273.71,3,3821.13,Salvador,Ana,Crédito,Entregue
+788,17/11/2025,Tablet,23/12/2025,Eletrônicos,1340.3,1,1340.3,Belo Horizonte,Ana,Boleto,Atrasado
+789,31/12/2025,Teclado Mecânico,11/01/2026,Acessórios,263.49,3,790.47,Recife,Elena,Boleto,Atrasado
+790,09/11/2025,Mouse Sem Fio,30/12/2025,Acessórios,73.85,2,147.7,Brasília,Elena,Pix,Entregue
+791,27/11/2025,Lâmpada Smart,22/12/2025,Casa Inteligente,73.02,2,146.04,Belo Horizonte,Fabio,Crédito,Entregue
+792,01/12/2025,Teclado Mecânico,26/12/2025,Acessórios,392.62,2,785.24,Curitiba,Carla,Boleto,Entregue
+793,20/09/2025,Webcam,12/01/2026,Acessórios,128.0,2,256.0,Porto Alegre,Carla,Pix,Entregue
+794,12/07/2025,Headset,03/12/2025,Acessórios,253.79,1,253.79,Rio de Janeiro,Elena,Boleto,Entregue
+795,05/08/2025,Tablet,06/12/2025,Eletrônicos,1447.28,1,1447.28,Recife,Carla,Pix,Entregue
+796,08/01/2026,Teclado Mecânico,10/01/2026,Acessórios,384.67,5,1923.35,Fortaleza,Bruno,Pix,Entregue
+797,10/11/2025,Mouse Sem Fio,27/12/2025,Acessórios,89.35,4,357.4,São Paulo,Ana,Crédito,Entregue
+798,04/10/2025,Lâmpada Smart,10/12/2025,Casa Inteligente,65.01,4,260.04,Recife,Fabio,Crédito,Em Trânsito
+799,12/07/2025,Notebook Gamer,22/12/2025,Eletrônicos,5876.7,5,29383.5,Natal,Ana,Crédito,Em Trânsito
+800,02/10/2025,Teclado Mecânico,25/01/2026,Acessórios,262.35,5,1311.75,João Pessoa,Ana,Pix,Cancelado
+801,26/08/2025,Tablet,15/12/2025,Eletrônicos,1153.26,3,3459.78,Recife,Fabio,Boleto,Entregue
+802,17/12/2025,Headset,01/01/2026,Acessórios,266.33,2,532.66,Porto Alegre,Fabio,Boleto,Entregue
+803,30/09/2025,Smartphone,10/01/2026,Eletrônicos,2569.32,3,7707.96,Brasília,Carla,Crédito,Entregue
+804,20/08/2025,Webcam,30/11/2025,Acessórios,128.8,4,515.2,Natal,Carla,Crédito,Entregue
+805,12/01/2026,"Monitor 24""",17/01/2026,Eletrônicos,916.26,3,2748.78,João Pessoa,Fabio,Pix,Entregue
+806,14/12/2025,Lâmpada Smart,12/01/2026,Casa Inteligente,74.46,5,372.3,João Pessoa,Daniel,Boleto,Entregue
+807,02/08/2025,Notebook Gamer,23/01/2026,Eletrônicos,5831.34,5,29156.7,Rio de Janeiro,Elena,Boleto,Entregue
+808,02/10/2025,Notebook Gamer,16/01/2026,Eletrônicos,5457.96,5,27289.8,Salvador,Bruno,Pix,Entregue
+809,10/11/2025,Headset,01/01/2026,Acessórios,120.61,2,241.22,Salvador,Daniel,Pix,Entregue
+810,01/12/2025,Teclado Mecânico,15/12/2025,Acessórios,294.69,3,884.07,Natal,Elena,Pix,Entregue
+811,29/06/2025,Fechadura Digital,10/12/2025,Casa Inteligente,522.3,3,1566.9,Natal,Daniel,Pix,Entregue
+812,28/06/2025,Assistente Virtual,02/01/2026,Casa Inteligente,367.84,3,1103.52,Brasília,Fabio,Pix,Pendente
+813,16/07/2025,Tablet,30/11/2025,Eletrônicos,1351.17,5,6755.85,Belo Horizonte,Bruno,Pix,Entregue
+814,02/07/2025,Lâmpada Smart,05/01/2026,Casa Inteligente,66.73,2,133.46,João Pessoa,Ana,Boleto,Entregue
+815,12/10/2025,Webcam,11/12/2025,Acessórios,237.16,3,711.48,Belo Horizonte,Ana,Pix,Entregue
+816,12/07/2025,Fechadura Digital,24/12/2025,Casa Inteligente,729.71,3,2189.13,Natal,Daniel,Crédito,Entregue
+817,31/08/2025,Headset,21/01/2026,Acessórios,254.69,2,509.38,João Pessoa,Fabio,Crédito,Entregue
+818,08/09/2025,Mouse Sem Fio,20/12/2025,Acessórios,115.34,1,115.34,Porto Alegre,Carla,Pix,Entregue
+819,30/09/2025,"Monitor 24""",04/12/2025,Eletrônicos,818.03,3,2454.09,João Pessoa,Daniel,Pix,Entregue
+820,09/11/2025,"Monitor 24""",21/01/2026,Eletrônicos,1058.89,5,5294.45,Natal,Daniel,Boleto,Entregue
+821,31/10/2025,Assistente Virtual,22/01/2026,Casa Inteligente,396.08,1,396.08,São Paulo,Carla,Crédito,Atrasado
+822,03/12/2025,Headset,27/01/2026,Acessórios,127.08,5,635.4,João Pessoa,Daniel,Crédito,Entregue
+823,17/11/2025,Lâmpada Smart,24/01/2026,Casa Inteligente,72.01,1,72.01,Brasília,Carla,Boleto,Em Trânsito
+824,07/11/2025,Smartphone,28/01/2026,Eletrônicos,3783.96,5,18919.8,São Paulo,Bruno,Boleto,Entregue
+825,22/09/2025,Assistente Virtual,29/12/2025,Casa Inteligente,306.31,4,1225.24,Curitiba,Carla,Pix,Entregue
+826,10/11/2025,Assistente Virtual,02/01/2026,Casa Inteligente,494.68,4,1978.72,Natal,Fabio,Boleto,Pendente
+827,03/11/2025,Assistente Virtual,27/01/2026,Casa Inteligente,275.33,3,825.99,Fortaleza,Bruno,Crédito,Em Trânsito
+828,20/11/2025,Headset,23/01/2026,Acessórios,189.28,4,757.12,Rio de Janeiro,Ana,Boleto,Entregue
+829,25/08/2025,Lâmpada Smart,26/01/2026,Casa Inteligente,62.91,5,314.55,São Paulo,Daniel,Boleto,Entregue
+830,22/10/2025,Lâmpada Smart,12/01/2026,Casa Inteligente,73.25,4,293.0,Salvador,Fabio,Crédito,Entregue
+831,10/01/2026,Notebook Gamer,19/01/2026,Eletrônicos,3513.98,5,17569.9,Salvador,Fabio,Pix,Entregue
+832,19/10/2025,Teclado Mecânico,30/11/2025,Acessórios,208.86,2,417.72,Porto Alegre,Carla,Pix,Entregue
+833,26/07/2025,Webcam,28/01/2026,Acessórios,234.76,5,1173.8,Recife,Ana,Crédito,Entregue
+834,18/01/2026,Headset,29/01/2026,Acessórios,250.34,2,500.68,Brasília,Fabio,Pix,Entregue
+835,10/08/2025,Teclado Mecânico,26/01/2026,Acessórios,332.34,3,997.02,Rio de Janeiro,Elena,Boleto,Entregue
+836,17/10/2025,Notebook Gamer,04/01/2026,Eletrônicos,5447.78,5,27238.9,Rio de Janeiro,Carla,Crédito,Pendente
+837,24/07/2025,Teclado Mecânico,20/01/2026,Acessórios,310.75,3,932.25,Natal,Ana,Pix,Devolvido
+838,26/09/2025,Lâmpada Smart,09/01/2026,Casa Inteligente,71.82,3,215.46,Salvador,Fabio,Boleto,Entregue
+839,12/08/2025,Teclado Mecânico,24/01/2026,Acessórios,316.73,4,1266.92,Belo Horizonte,Fabio,Crédito,Em Trânsito
+840,15/08/2025,Webcam,25/01/2026,Acessórios,154.39,5,771.95,Fortaleza,Bruno,Boleto,Entregue
+841,15/09/2025,Mouse Sem Fio,28/12/2025,Acessórios,85.17,4,340.68,Salvador,Bruno,Boleto,Devolvido
+842,10/10/2025,Tablet,27/12/2025,Eletrônicos,1472.13,3,4416.39,Natal,Elena,Crédito,Entregue
+843,26/01/2026,Fechadura Digital,28/01/2026,Casa Inteligente,565.28,1,565.28,João Pessoa,Elena,Crédito,Entregue
+844,06/09/2025,Tablet,15/01/2026,Eletrônicos,1179.35,4,4717.4,Brasília,Daniel,Boleto,Atrasado
+845,21/09/2025,Headset,03/01/2026,Acessórios,278.51,4,1114.04,João Pessoa,Elena,Crédito,Entregue
+846,12/10/2025,Lâmpada Smart,17/12/2025,Casa Inteligente,77.88,5,389.4,Salvador,Fabio,Boleto,Entregue
+847,28/10/2025,Mouse Sem Fio,30/11/2025,Acessórios,98.4,2,196.8,Fortaleza,Ana,Crédito,Devolvido
+848,24/12/2025,Webcam,29/12/2025,Acessórios,129.66,1,129.66,Recife,Daniel,Pix,Entregue
+849,26/09/2025,"Monitor 24""",05/01/2026,Eletrônicos,772.16,5,3860.8,Recife,Ana,Crédito,Entregue
+850,25/11/2025,Assistente Virtual,29/01/2026,Casa Inteligente,310.12,3,930.36,Belo Horizonte,Elena,Crédito,Entregue
+851,22/07/2025,Headset,12/01/2026,Acessórios,256.28,2,512.56,São Paulo,Carla,Pix,Entregue
+852,14/10/2025,Tablet,11/01/2026,Eletrônicos,959.05,5,4795.25,Belo Horizonte,Daniel,Crédito,Entregue
+853,04/11/2025,Teclado Mecânico,02/12/2025,Acessórios,183.96,2,367.92,Porto Alegre,Elena,Boleto,Entregue
+854,29/10/2025,Smartphone,15/12/2025,Eletrônicos,2453.44,1,2453.44,São Paulo,Bruno,Pix,Entregue
+855,10/01/2026,Teclado Mecânico,11/01/2026,Acessórios,249.47,5,1247.35,Brasília,Ana,Crédito,Entregue
+856,29/07/2025,Teclado Mecânico,23/12/2025,Acessórios,299.38,3,898.14,Brasília,Bruno,Pix,Entregue
+857,24/10/2025,Webcam,01/12/2025,Acessórios,243.88,5,1219.4,Recife,Daniel,Crédito,Entregue
+858,01/09/2025,Notebook Gamer,28/12/2025,Eletrônicos,3600.6,4,14402.4,Natal,Bruno,Crédito,Entregue
+859,07/12/2025,"Monitor 24""",21/12/2025,Eletrônicos,751.36,5,3756.8,Fortaleza,Fabio,Boleto,Entregue
+860,18/09/2025,Notebook Gamer,05/12/2025,Eletrônicos,3929.65,4,15718.6,Recife,Elena,Pix,Entregue
+861,19/07/2025,Headset,22/12/2025,Acessórios,142.9,4,571.6,Natal,Fabio,Pix,Pendente
+862,06/07/2025,Headset,17/01/2026,Acessórios,247.84,1,247.84,Curitiba,Carla,Boleto,Entregue
+863,11/07/2025,Smartphone,16/12/2025,Eletrônicos,3144.1,2,6288.2,Curitiba,Elena,Crédito,Entregue
+864,19/01/2026,Teclado Mecânico,28/01/2026,Acessórios,393.56,4,1574.24,Belo Horizonte,Ana,Crédito,Entregue
+865,28/12/2025,Tablet,16/01/2026,Eletrônicos,943.92,5,4719.6,Curitiba,Bruno,Boleto,Entregue
+866,02/06/2025,Notebook Gamer,17/12/2025,Eletrônicos,5294.4,3,15883.2,João Pessoa,Bruno,Pix,Entregue
+867,26/09/2025,Lâmpada Smart,05/12/2025,Casa Inteligente,50.11,3,150.33,Recife,Daniel,Pix,Atrasado
+868,07/12/2025,Assistente Virtual,01/01/2026,Casa Inteligente,267.32,2,534.64,Recife,Bruno,Crédito,Entregue
+869,30/10/2025,Lâmpada Smart,13/12/2025,Casa Inteligente,77.73,3,233.19,Brasília,Ana,Pix,Entregue
+870,01/11/2025,Smartphone,20/01/2026,Eletrônicos,2665.32,1,2665.32,João Pessoa,Fabio,Crédito,Entregue
+871,28/09/2025,Lâmpada Smart,20/12/2025,Casa Inteligente,73.94,3,221.82,Recife,Daniel,Crédito,Devolvido
+872,22/08/2025,Assistente Virtual,03/01/2026,Casa Inteligente,267.77,5,1338.85,Rio de Janeiro,Ana,Boleto,Entregue
+873,15/10/2025,Smartphone,30/11/2025,Eletrônicos,3461.56,3,10384.68,Porto Alegre,Ana,Boleto,Cancelado
+874,04/09/2025,Mouse Sem Fio,22/01/2026,Acessórios,131.45,4,525.8,Salvador,Fabio,Boleto,Entregue
+875,14/07/2025,Webcam,03/12/2025,Acessórios,120.14,5,600.7,João Pessoa,Fabio,Boleto,Entregue
+876,29/08/2025,Assistente Virtual,31/12/2025,Casa Inteligente,376.17,2,752.34,Natal,Bruno,Boleto,Cancelado
+877,06/12/2025,"Monitor 24""",29/12/2025,Eletrônicos,1033.69,4,4134.76,Fortaleza,Fabio,Crédito,Em Trânsito
+878,08/07/2025,Mouse Sem Fio,08/01/2026,Acessórios,65.05,4,260.2,Recife,Ana,Crédito,Entregue
+879,10/06/2025,Teclado Mecânico,12/12/2025,Acessórios,318.39,5,1591.95,Rio de Janeiro,Bruno,Crédito,Em Trânsito
+880,17/06/2025,Fechadura Digital,24/12/2025,Casa Inteligente,860.5,3,2581.5,Brasília,Carla,Boleto,Atrasado
+881,10/10/2025,Teclado Mecânico,27/12/2025,Acessórios,236.42,4,945.68,São Paulo,Fabio,Pix,Entregue
+882,07/11/2025,Notebook Gamer,03/01/2026,Eletrônicos,3844.85,4,15379.4,João Pessoa,Carla,Pix,Entregue
+883,03/09/2025,Teclado Mecânico,29/12/2025,Acessórios,222.67,5,1113.35,Porto Alegre,Fabio,Crédito,Entregue
+884,26/11/2025,Teclado Mecânico,05/01/2026,Acessórios,176.78,1,176.78,Belo Horizonte,Daniel,Pix,Entregue
+885,21/01/2026,Smartphone,21/01/2026,Eletrônicos,1892.99,1,1892.99,Natal,Carla,Boleto,Entregue
+886,20/11/2025,Notebook Gamer,20/01/2026,Eletrônicos,3846.84,3,11540.52,Rio de Janeiro,Ana,Crédito,Entregue
+887,16/08/2025,Fechadura Digital,13/12/2025,Casa Inteligente,726.51,3,2179.53,São Paulo,Elena,Pix,Entregue
+888,24/06/2025,Lâmpada Smart,22/12/2025,Casa Inteligente,67.1,4,268.4,Fortaleza,Ana,Crédito,Entregue
+889,26/08/2025,Teclado Mecânico,06/01/2026,Acessórios,285.56,4,1142.24,Belo Horizonte,Bruno,Boleto,Entregue
+890,08/08/2025,Teclado Mecânico,19/12/2025,Acessórios,229.75,4,919.0,Brasília,Fabio,Pix,Em Trânsito
+891,26/08/2025,Smartphone,06/12/2025,Eletrônicos,3656.02,3,10968.06,Porto Alegre,Fabio,Crédito,Em Trânsito
+892,15/09/2025,Fechadura Digital,09/12/2025,Casa Inteligente,700.37,1,700.37,João Pessoa,Fabio,Boleto,Atrasado
+893,01/11/2025,Smartphone,04/01/2026,Eletrônicos,3487.86,5,17439.3,Porto Alegre,Fabio,Pix,Entregue
+894,02/07/2025,Headset,14/12/2025,Acessórios,121.37,1,121.37,Salvador,Fabio,Boleto,Entregue
+895,14/11/2025,Fechadura Digital,24/01/2026,Casa Inteligente,754.02,4,3016.08,São Paulo,Elena,Pix,Entregue
+896,23/12/2025,Fechadura Digital,27/01/2026,Casa Inteligente,752.67,2,1505.34,Salvador,Elena,Boleto,Entregue
+897,09/11/2025,Tablet,26/01/2026,Eletrônicos,1126.97,3,3380.91,Belo Horizonte,Ana,Boleto,Entregue
+898,27/10/2025,Fechadura Digital,15/01/2026,Casa Inteligente,791.82,1,791.82,Fortaleza,Elena,Pix,Em Trânsito
+899,11/06/2025,Lâmpada Smart,20/12/2025,Casa Inteligente,61.69,4,246.76,Recife,Carla,Boleto,Cancelado
+900,17/12/2025,Fechadura Digital,31/12/2025,Casa Inteligente,655.04,1,655.04,Brasília,Daniel,Pix,Atrasado
+901,25/08/2025,"Monitor 24""",10/12/2025,Eletrônicos,995.17,1,995.17,Brasília,Carla,Pix,Entregue
+902,20/12/2025,Notebook Gamer,22/01/2026,Eletrônicos,5931.22,4,23724.88,Recife,Carla,Boleto,Entregue
+903,29/07/2025,Smartphone,13/12/2025,Eletrônicos,2506.42,5,12532.1,São Paulo,Elena,Crédito,Em Trânsito
+904,02/01/2026,Webcam,27/01/2026,Acessórios,185.78,1,185.78,Curitiba,Bruno,Boleto,Cancelado
+905,13/08/2025,Fechadura Digital,19/12/2025,Casa Inteligente,843.8,4,3375.2,Rio de Janeiro,Elena,Boleto,Cancelado
+906,23/10/2025,Tablet,13/01/2026,Eletrônicos,823.32,4,3293.28,Natal,Daniel,Crédito,Entregue
+907,28/05/2025,Lâmpada Smart,01/12/2025,Casa Inteligente,59.26,3,177.78,Rio de Janeiro,Fabio,Boleto,Entregue
+908,19/11/2025,Webcam,28/01/2026,Acessórios,149.31,4,597.24,Porto Alegre,Fabio,Crédito,Entregue
+909,16/10/2025,Assistente Virtual,16/12/2025,Casa Inteligente,305.62,3,916.86,Recife,Carla,Crédito,Em Trânsito
+910,11/10/2025,Teclado Mecânico,11/01/2026,Acessórios,259.82,3,779.46,Belo Horizonte,Daniel,Boleto,Entregue
+911,17/10/2025,Mouse Sem Fio,21/12/2025,Acessórios,62.1,4,248.4,Brasília,Daniel,Pix,Entregue
+912,26/09/2025,Mouse Sem Fio,22/12/2025,Acessórios,99.03,4,396.12,João Pessoa,Ana,Pix,Entregue
+913,21/12/2025,Lâmpada Smart,16/01/2026,Casa Inteligente,71.68,2,143.36,Brasília,Carla,Pix,Entregue
+914,15/06/2025,Teclado Mecânico,05/12/2025,Acessórios,336.31,4,1345.24,Brasília,Daniel,Boleto,Entregue
+915,16/09/2025,Smartphone,09/01/2026,Eletrônicos,3661.48,2,7322.96,Salvador,Elena,Boleto,Entregue
+916,30/06/2025,Notebook Gamer,10/12/2025,Eletrônicos,5140.33,4,20561.32,Belo Horizonte,Ana,Boleto,Entregue
+917,20/09/2025,Lâmpada Smart,20/01/2026,Casa Inteligente,50.51,4,202.04,Belo Horizonte,Bruno,Pix,Entregue
+918,20/08/2025,Mouse Sem Fio,04/01/2026,Acessórios,134.08,3,402.24,Salvador,Bruno,Crédito,Entregue
+919,09/10/2025,Fechadura Digital,19/12/2025,Casa Inteligente,464.48,1,464.48,João Pessoa,Ana,Boleto,Em Trânsito
+920,23/08/2025,Webcam,14/01/2026,Acessórios,209.05,5,1045.25,Rio de Janeiro,Elena,Boleto,Entregue
+921,18/10/2025,Lâmpada Smart,21/12/2025,Casa Inteligente,60.96,2,121.92,Porto Alegre,Bruno,Boleto,Cancelado
+922,07/06/2025,Headset,02/12/2025,Acessórios,227.08,4,908.32,Porto Alegre,Bruno,Boleto,Entregue
+923,05/01/2026,Fechadura Digital,15/01/2026,Casa Inteligente,765.16,1,765.16,Natal,Fabio,Crédito,Entregue
+924,04/08/2025,Webcam,18/01/2026,Acessórios,245.44,1,245.44,Fortaleza,Bruno,Pix,Entregue
+925,22/01/2026,Notebook Gamer,28/01/2026,Eletrônicos,5227.42,3,15682.26,Recife,Carla,Crédito,Pendente
+926,07/11/2025,"Monitor 24""",30/12/2025,Eletrônicos,938.9,4,3755.6,Curitiba,Elena,Boleto,Devolvido
+927,04/06/2025,Tablet,08/12/2025,Eletrônicos,1179.6,2,2359.2,Natal,Carla,Boleto,Entregue
+928,14/07/2025,Mouse Sem Fio,04/12/2025,Acessórios,68.83,1,68.83,São Paulo,Bruno,Pix,Em Trânsito
+929,12/08/2025,Smartphone,29/12/2025,Eletrônicos,1940.02,1,1940.02,Recife,Carla,Crédito,Em Trânsito
+930,22/08/2025,"Monitor 24""",24/01/2026,Eletrônicos,992.79,2,1985.58,Natal,Carla,Pix,Entregue
+931,25/06/2025,Fechadura Digital,08/12/2025,Casa Inteligente,458.58,1,458.58,Fortaleza,Carla,Crédito,Entregue
+932,11/11/2025,Smartphone,17/12/2025,Eletrônicos,2231.53,1,2231.53,João Pessoa,Elena,Boleto,Entregue
+933,06/12/2025,Teclado Mecânico,13/12/2025,Acessórios,385.67,3,1157.01,Brasília,Elena,Crédito,Atrasado
+934,09/09/2025,"Monitor 24""",22/01/2026,Eletrônicos,1082.09,1,1082.09,Recife,Ana,Crédito,Entregue
+935,23/12/2025,Headset,06/01/2026,Acessórios,299.57,5,1497.85,Natal,Daniel,Pix,Entregue
+936,30/10/2025,Mouse Sem Fio,03/01/2026,Acessórios,95.3,2,190.6,Salvador,Fabio,Pix,Entregue
+937,22/12/2025,Mouse Sem Fio,29/01/2026,Acessórios,69.8,4,279.2,Natal,Fabio,Pix,Em Trânsito
+938,20/11/2025,Notebook Gamer,16/12/2025,Eletrônicos,5293.19,1,5293.19,Natal,Daniel,Pix,Entregue
+939,05/07/2025,Assistente Virtual,05/12/2025,Casa Inteligente,326.26,3,978.78,João Pessoa,Ana,Boleto,Devolvido
+940,20/10/2025,Lâmpada Smart,07/12/2025,Casa Inteligente,52.53,1,52.53,Natal,Carla,Pix,Entregue
+941,15/08/2025,Mouse Sem Fio,09/01/2026,Acessórios,60.16,3,180.48,Recife,Daniel,Crédito,Entregue
+942,19/01/2026,Smartphone,20/01/2026,Eletrônicos,2211.63,1,2211.63,Recife,Fabio,Crédito,Devolvido
+943,29/09/2025,"Monitor 24""",18/01/2026,Eletrônicos,1136.2,4,4544.8,São Paulo,Fabio,Pix,Entregue
+944,21/09/2025,Notebook Gamer,21/01/2026,Eletrônicos,5506.31,5,27531.55,Salvador,Ana,Pix,Entregue
+945,15/01/2026,Notebook Gamer,25/01/2026,Eletrônicos,5178.66,2,10357.32,Salvador,Elena,Crédito,Entregue
+946,31/07/2025,Assistente Virtual,15/12/2025,Casa Inteligente,270.87,2,541.74,Salvador,Elena,Boleto,Entregue
+947,03/08/2025,Notebook Gamer,25/01/2026,Eletrônicos,4431.45,1,4431.45,Belo Horizonte,Bruno,Pix,Entregue
+948,03/01/2026,Fechadura Digital,14/01/2026,Casa Inteligente,872.53,4,3490.12,João Pessoa,Elena,Boleto,Entregue
+949,03/01/2026,Tablet,21/01/2026,Eletrônicos,1029.8,5,5149.0,Fortaleza,Ana,Pix,Devolvido
+950,15/10/2025,Tablet,07/01/2026,Eletrônicos,1230.1,5,6150.5,Fortaleza,Carla,Pix,Entregue
+951,11/12/2025,Mouse Sem Fio,14/01/2026,Acessórios,97.55,3,292.65,Natal,Carla,Crédito,Cancelado
+952,22/10/2025,Fechadura Digital,14/12/2025,Casa Inteligente,691.11,3,2073.33,Brasília,Fabio,Pix,Atrasado
+953,15/07/2025,Mouse Sem Fio,27/01/2026,Acessórios,68.58,3,205.74,Belo Horizonte,Ana,Crédito,Entregue
+954,17/11/2025,Assistente Virtual,28/12/2025,Casa Inteligente,283.85,1,283.85,São Paulo,Elena,Crédito,Entregue
+955,09/12/2025,Smartphone,03/01/2026,Eletrônicos,3553.7,5,17768.5,João Pessoa,Bruno,Pix,Entregue
+956,05/09/2025,Lâmpada Smart,07/12/2025,Casa Inteligente,69.22,4,276.88,Rio de Janeiro,Carla,Pix,Entregue
+957,24/11/2025,Headset,01/01/2026,Acessórios,121.12,5,605.6,Natal,Daniel,Boleto,Em Trânsito
+958,02/11/2025,Lâmpada Smart,23/01/2026,Casa Inteligente,51.86,2,103.72,Salvador,Elena,Pix,Pendente
+959,05/12/2025,Lâmpada Smart,19/12/2025,Casa Inteligente,72.88,2,145.76,Fortaleza,Carla,Pix,Entregue
+960,09/10/2025,Smartphone,18/12/2025,Eletrônicos,1974.98,1,1974.98,São Paulo,Bruno,Boleto,Entregue
+961,13/07/2025,Tablet,04/01/2026,Eletrônicos,1118.26,3,3354.78,Natal,Carla,Pix,Em Trânsito
+962,03/07/2025,Notebook Gamer,15/01/2026,Eletrônicos,4635.32,3,13905.96,Rio de Janeiro,Ana,Boleto,Pendente
+963,05/07/2025,Lâmpada Smart,29/12/2025,Casa Inteligente,46.52,5,232.6,Rio de Janeiro,Daniel,Pix,Cancelado
+964,16/12/2025,Webcam,12/01/2026,Acessórios,149.81,2,299.62,João Pessoa,Carla,Crédito,Pendente
+965,19/08/2025,"Monitor 24""",29/12/2025,Eletrônicos,649.79,5,3248.95,Curitiba,Daniel,Boleto,Entregue
+966,19/07/2025,Notebook Gamer,12/01/2026,Eletrônicos,4998.04,1,4998.04,Natal,Bruno,Boleto,Entregue
+967,30/10/2025,Mouse Sem Fio,25/12/2025,Acessórios,112.21,4,448.84,Salvador,Carla,Pix,Entregue
+968,14/10/2025,Fechadura Digital,26/12/2025,Casa Inteligente,846.27,1,846.27,Rio de Janeiro,Elena,Pix,Entregue
+969,07/10/2025,Tablet,22/12/2025,Eletrônicos,949.31,5,4746.55,Salvador,Elena,Crédito,Entregue
+970,30/07/2025,Notebook Gamer,14/12/2025,Eletrônicos,3954.77,3,11864.31,São Paulo,Ana,Crédito,Entregue
+971,14/10/2025,Fechadura Digital,28/01/2026,Casa Inteligente,551.92,3,1655.76,Natal,Fabio,Crédito,Entregue
+972,26/07/2025,Teclado Mecânico,23/12/2025,Acessórios,162.16,2,324.32,Fortaleza,Carla,Boleto,Entregue
+973,10/11/2025,Mouse Sem Fio,10/01/2026,Acessórios,82.81,2,165.62,Brasília,Bruno,Crédito,Entregue
+974,13/09/2025,Headset,29/12/2025,Acessórios,152.32,3,456.96,Rio de Janeiro,Ana,Boleto,Entregue
+975,24/09/2025,Webcam,02/12/2025,Acessórios,242.34,3,727.02,Salvador,Daniel,Boleto,Em Trânsito
+976,26/10/2025,Fechadura Digital,04/01/2026,Casa Inteligente,526.57,3,1579.71,Porto Alegre,Carla,Pix,Entregue
+977,19/10/2025,Lâmpada Smart,22/01/2026,Casa Inteligente,74.08,3,222.24,Natal,Bruno,Crédito,Entregue
+978,21/10/2025,Fechadura Digital,02/12/2025,Casa Inteligente,484.13,3,1452.39,Fortaleza,Elena,Pix,Pendente
+979,05/09/2025,Webcam,04/12/2025,Acessórios,213.83,3,641.49,Natal,Bruno,Pix,Em Trânsito
+980,01/12/2025,Tablet,07/12/2025,Eletrônicos,862.01,2,1724.02,São Paulo,Fabio,Crédito,Atrasado
+981,12/07/2025,Headset,04/01/2026,Acessórios,111.18,1,111.18,Natal,Elena,Crédito,Entregue
+982,09/07/2025,Teclado Mecânico,13/01/2026,Acessórios,312.35,3,937.05,João Pessoa,Bruno,Boleto,Entregue
+983,08/10/2025,Teclado Mecânico,17/12/2025,Acessórios,345.41,4,1381.64,Porto Alegre,Ana,Crédito,Entregue
+984,21/09/2025,Webcam,24/12/2025,Acessórios,146.51,2,293.02,Salvador,Fabio,Crédito,Em Trânsito
+985,27/07/2025,Mouse Sem Fio,15/12/2025,Acessórios,63.59,1,63.59,Rio de Janeiro,Ana,Pix,Entregue
+986,19/11/2025,Webcam,22/12/2025,Acessórios,168.39,3,505.17,Curitiba,Carla,Pix,Entregue
+987,14/10/2025,Tablet,02/12/2025,Eletrônicos,1332.61,2,2665.22,São Paulo,Bruno,Crédito,Entregue
+988,20/09/2025,Teclado Mecânico,24/12/2025,Acessórios,374.03,4,1496.12,Brasília,Ana,Boleto,Entregue
+989,28/07/2025,Notebook Gamer,16/12/2025,Eletrônicos,3936.77,5,19683.85,São Paulo,Fabio,Pix,Entregue
+990,29/09/2025,Fechadura Digital,07/12/2025,Casa Inteligente,549.71,3,1649.13,Salvador,Ana,Boleto,Entregue
+991,18/07/2025,Tablet,25/01/2026,Eletrônicos,1196.57,3,3589.71,Rio de Janeiro,Ana,Crédito,Entregue
+992,17/06/2025,Mouse Sem Fio,07/12/2025,Acessórios,109.79,3,329.37,Salvador,Daniel,Crédito,Atrasado
+993,01/10/2025,Mouse Sem Fio,18/01/2026,Acessórios,81.04,5,405.2,Rio de Janeiro,Carla,Pix,Entregue
+994,08/09/2025,"Monitor 24""",14/12/2025,Eletrônicos,906.23,2,1812.46,Curitiba,Elena,Pix,Entregue
+995,20/12/2025,Assistente Virtual,20/01/2026,Casa Inteligente,489.51,2,979.02,Curitiba,Daniel,Pix,Entregue
+996,19/01/2026,Teclado Mecânico,19/01/2026,Acessórios,316.67,1,316.67,Recife,Elena,Crédito,Atrasado
+997,20/08/2025,Lâmpada Smart,12/12/2025,Casa Inteligente,59.87,4,239.48,Salvador,Daniel,Boleto,Em Trânsito
+998,10/09/2025,"Monitor 24""",09/01/2026,Eletrônicos,1037.97,2,2075.94,Salvador,Ana,Pix,Entregue
+999,26/10/2025,Smartphone,13/01/2026,Eletrônicos,3574.13,1,3574.13,Porto Alegre,Carla,Boleto,Entregue
+1000,18/08/2025,Lâmpada Smart,20/01/2026,Casa Inteligente,68.85,5,344.25,Recife,Bruno,Pix,Entregue
